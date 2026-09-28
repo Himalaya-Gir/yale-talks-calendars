@@ -1,0 +1,42 @@
+[
+  {
+    "id": "yale.edu_jqp6m8f5k5lfkli9j7ufi7mpbc@group.calendar.google.com",
+    "name": "Clinical Area Events",
+    "active": true
+  },
+  {
+    "id": "yale.edu_7on53tnlakdl0hgake5dj43608@group.calendar.google.com",
+    "name": "Cognitive Area Events",
+    "active": true
+  },
+  {
+    "id": "yale.edu_k5vsussf747o18caqt4s9aljrc@group.calendar.google.com",
+    "name": "Developmental Area Events",
+    "active": true
+  },
+  {
+    "id": "yale.edu_jo4qs7b77fmlp9mikkfha9dqbk@group.calendar.google.com",
+    "name": "Graduate Program",
+    "active": false
+  },
+  {
+    "id": "yale.edu_0seeekp0f93v068nri4i8afa4k@group.calendar.google.com",
+    "name": "Neuroscience Area Events",
+    "active": true
+  },
+  {
+    "id": "yale.edu_lm5b9encanivamefvqgfk3fqag@group.calendar.google.com",
+    "name": "Psychology Department Calendar",
+    "active": false
+  },
+  {
+    "id": "yale.edu_hj4ttum7tmvls9vhdohl0msj2g@group.calendar.google.com",
+    "name": "Social/Personality Area Events",
+    "active": true
+  },
+  {
+    "id": "dop.cal@yale.edu",
+    "name": "Department",
+    "active": true
+  }
+]

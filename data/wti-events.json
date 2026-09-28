@@ -1,0 +1,882 @@
+{
+  "/event/conference-2022": {
+    "url": "https://wti.yale.edu/event/conference-2022",
+    "summary": "WTI Conference — Integration",
+    "start": "2022-01-11",
+    "end": "2022-01-12",
+    "location": "",
+    "description": "WTI Conference\nIntegration\n\nYale researchers came together for virtual talks by Wu Tsai Faculty Members about current and future interdisciplinary research to advance the understanding of human cognition.\n\nIntegration Agenda\n\n12:30 pm | Welcoming remarks\n\nNick Turk-Browne, Director of the Wu Tsai Institute and Professor of Psychology\n\nDaniel Colón-Ramos, Associate Director of the Wu Tsai Institute and Dorys McConnell Duberg Professor of Neuroscience and of Cell Biology\n\nJohn Lafferty, Associate Director of the Wu Tsai Institute and John C. Malone Professor of Statistics and Data Science\n\nKelley Remole, Managing Director of the Wu Tsai Institute\n\nSession 1: Parallel datasets\n\nTalks describing multi-modal datasets, perhaps ripe for computational translation\n\nSession chair: Phil Corlett\n\nSpeakers: Evelyn Lake, Damon Clark, Phil Corlett\n\nSimultaneous whole-brain functional magnetic resonance imaging and ‘mesoscale’ cortex-wide one-photon calcium imaging in murine models\n\nEvelyn Lake: Assistant Professor, Radiology and Biomedical Imaging\n\nAbstract:\n\nWe implement simultaneous whole-brain functional magnetic resonance imaging (fMRI) and ‘mesoscale’ cortex-wide one-photon calcium (Ca2+) imaging in murine models. Recent developments from our group include the longitudinal acquisition of these data from awake animals, models of injury and disease including hydrocephalus, traumatic brain injury, and Alzheimer’s disease, as well as data from across the murine lifespan (postnatal day 10 to 12 months-of-age). To close knowledge gaps across scales, and species, simultaneous multi-modal imaging approaches that leverage the strengths of complementary modalities in order to deepen our understanding of the pathophysiological changes that manifest in clinically accessible biomedical imaging approaches are needed. In our hands, the blood-oxygen-level-dependent (BOLD) fMRI signal provides a direct link to a clinical setting. The simultaneously acquired mesoscale Ca2+ imaging data offer a high spatiotemporal resolution measure of brain activity with cell-type specificity. Acquired together, these modes offer a unique window into changes in spontaneous activity caused by altered neurovascular coupling, or network and circuit restructuring, that may be predictive of injury, disease, progression, prognosis, age, or treatment response. With hundreds of data sets already acquired, we are searching for unique collaborative opportunities to interrogate these data from multiple perspectives.\n\nMotion illusions across animals and modalities\n\nDamon Clark: Associate Professor, Molecular, Cellular and Developmental Biology\n\nAbstract:\n\nIllusory visual motion percepts can reveal the underlying architecture of motion computation. Here, I will present work connecting two visual illusions across animals and sensory modalities. In the first illusion, a static image can induce percepts of motion in humans. We found that flies are subject to the same illusion and, using the powerful genetic tools in flies, we […]\n\nhttps://wti.yale.edu/event/conference-2022",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2022-06/spc-sips-science": {
+    "url": "https://wti.yale.edu/event/2022-06/spc-sips-science",
+    "summary": "SPC Sips + Science",
+    "start": "2022-06-02T17:30:00-04:00",
+    "end": "2022-06-02T20:00:00-04:00",
+    "location": "Gryphon's Pub, 204 York Street, New Haven",
+    "description": "https://wti.yale.edu/event/2022-06/spc-sips-science",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2022-09/fall-reception": {
+    "url": "https://wti.yale.edu/event/2022-09/fall-reception",
+    "summary": "WTI Social — Fall Reception",
+    "start": "2022-09-29T16:00:00-04:00",
+    "end": "2022-09-29T18:00:00-04:00",
+    "location": "Humanities Quadrangle, 320 York St",
+    "description": "WTI Social\nFall Reception\n\nhttps://wti.yale.edu/event/2022-09/fall-reception",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2022-11/xaq-pitkow": {
+    "url": "https://wti.yale.edu/event/2022-11/xaq-pitkow",
+    "summary": "WTI Distinguished Speaker Series — Interpreting neural dynamics by modeling beliefs",
+    "start": "2022-11-03T11:30:00-04:00",
+    "end": "2022-11-03T12:45:00-04:00",
+    "location": "William L. Harkness Hall, Room 117, 100 Wall Street",
+    "description": "WTI Distinguished Speaker Series\nInterpreting neural dynamics by modeling beliefs\n\nXaq Pitkow, PhD\n\nDepartment of Electrical and Computer Engineering, Rice University + Department of Neuroscience, Baylor College of Medicine\n\nhttps://wti.yale.edu/event/2022-11/xaq-pitkow",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2022-11/guillaume-lajoie": {
+    "url": "https://wti.yale.edu/event/2022-11/guillaume-lajoie",
+    "summary": "WTI Distinguished Speaker Series — How end-to-end optimization and deep learning reveal computational roles of biological neurons' diversity and adaptation",
+    "start": "2022-11-10T11:30:00-05:00",
+    "end": "2022-11-10T12:45:00-05:00",
+    "location": "William L. Harkness Hall, Room 117, 100 Wall Street",
+    "description": "WTI Distinguished Speaker Series\nHow end-to-end optimization and deep learning reveal computational roles of biological neurons' diversity and adaptation\n\nGuillaume Lajoie, PhD\n\nDepartment of Mathematics and Statistics\nUniversité de Montréal\n\nhttps://wti.yale.edu/event/2022-11/guillaume-lajoie",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2022-11/daniel-yamins": {
+    "url": "https://wti.yale.edu/event/2022-11/daniel-yamins",
+    "summary": "WTI Distinguished Speaker Series — Beyond ConvNets: Deepening our Computational Understanding of Neural Systems",
+    "start": "2022-11-29T11:30:00-05:00",
+    "end": "2022-11-29T12:45:00-05:00",
+    "location": "William L. Harkness Hall, Room 117, 100 Wall Street",
+    "description": "WTI Distinguished Speaker Series\nBeyond ConvNets: Deepening our Computational Understanding of Neural Systems\n\nDaniel Yamins, PhD\n\nDepartment of Psychology and Computer Science Stanford University\n\nThe Wu Tsai Institute presents our Distinguished Speaker Series featuring computational neuroscientist Daniel Yamins, PhD. Please join us on Tuesday, November 29, at 11:30 a.m.\n\nYamins will begin by discussing advances in unsupervised learning and how they spur improvements over older categorization-based convnets as models of primate visual system. Then, he will show how these models can be extended to describe the emergence of a functional organization throughout the ventral visual pathway and better allow us to understand the existence (or lack thereof) of multiple visual streams. Yamins will also describe recent state-of-the-art approaches to visual scene understanding, which leverage ideas from cognitive science and developmental psychology in building better artificial intelligence—closing with some thoughts about the philosophy of computational neuroscience in the age of AI.\n\nDr. Yamins is a cognitive computational neuroscientist at Stanford University, an assistant professor of Psychology and Computer Science, a faculty scholar at the Wu Tsai Neurosciences Institute, and an affiliate of the Stanford Artificial Intelligence Laboratory. His research group focuses on reverse engineering the algorithms of the human brain to learn how our minds work and build more effective artificial intelligence systems. He is especially interested in how brain circuits for sensory information processing and decision-making arise by optimizing high-performing cortical algorithms for key behavioral tasks. He received his AB and PhD degrees from Harvard University, was a postdoctoral researcher at MIT, and has been a visiting researcher at Princeton University and Los Alamos National Laboratory. He is a recipient of an NSF Career Award, the James S. McDonnell Foundation award in Understanding Human Cognition, and the Sloan Research Fellowship. Additionally, he is a Simons Foundation Investigator.\n\nhttps://wti.yale.edu/event/2022-11/daniel-yamins",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2023-04/sips-science": {
+    "url": "https://wti.yale.edu/event/2023-04/sips-science",
+    "summary": "SPC Sips + Science 2023",
+    "start": "2023-04-26T18:00:00-04:00",
+    "end": "2023-04-26T20:00:00-04:00",
+    "location": "BAR New Haven, 254 Crown Street, New Haven, CT 06511",
+    "description": "Pizza + Neuroscience\n\nWTI's Student and Postdoc Committee invites you to attend the Second Annual Sips & Science at BAR New Haven on Wednesday, April 26, 2023, from 6-8 pm.\n\nCome for free pizza and prizes. Stay to learn more about the brain-inspired interdisciplinary research happening at Yale!\n\nOpen to all graduate students, postdocs, postbacs, and research staff from affiliated or related Yale departments, programs, and research. This event is for 21+ only.\n\nInterested in sharing your research? We are looking for volunteer speakers for the event. Details are on the Sips & Science event sign-up page. Contact WTI's SPC with questions, and subscribe to the WTI Trainee Listserv for information about future events and opportunities.\n\nhttps://wti.yale.edu/event/2023-04/sips-science",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2023-11/abstraction-and-relational-reasoning": {
+    "url": "https://wti.yale.edu/event/2023-11/abstraction-and-relational-reasoning",
+    "summary": "WTI Workshop — Abstraction and Relational Reasoning",
+    "start": "2023-11-16",
+    "end": "2023-11-18",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Workshop\nAbstraction and Relational Reasoning\n\nHuman cognition demonstrates a remarkable ability to transcend limited experience to form highly general, abstract ideas. Understanding how the mind and brain accomplish this has been a central challenge in multiple scientific fields. The recent success of large language models in AI has led to the development of models capable of performing certain abstract tasks, but their ability to do so can be unreliable and relies on more data than individual humans receive in an entire lifetime. Moreover, the nature of the representations that are learned needs to be better understood. Recent research has begun to synthesize ideas at the interface of neuroscience and AI, leading to new approaches to modeling abstraction in natural and artificial systems.\n\nThe Wu Tsai Institute's Center for Neurocomputation and Machine Intelligence invites you to a small, informal two-day workshop that brings together researchers from different disciplines to share ideas and spark further work in this exciting area. Please RSVP for the workshop: https://forms.gle/8r3KriF3oGw5FXVT7 and view the working agenda below.\n\nWorkshop Agenda\n\nThursday, November 16\n\n12:00 PM | Lunch (11th floor common area)\n\n1:00 - 3:00 PM | Session 1 (Workshop Room 1116)\n\n• 1:00 - 1:40 PM | Taylor Webb (UCLA): The Relational Bottleneck\n\n• 1:40 - 2:20 PM | Awni Altabaa (Yale): Relational Convolution Networks\n\n• 2:20 - 3:00 PM | Declan Campbell / Tyler Giallanza (Princeton): Modeling of Context and Abstractions for Control\n\n3:00 PM | Break (11th floor common area)\n\n3:30 - 5:30 PM | Session 2 (Workshop Room 1116)\n\n• 3:30 - 4:10 PM | Stefano Fusi (Columbia): Geometry of Abstraction\n\n• 4:10 - 4:50 PM | Kamesh Krishnamurthy / Simon Segert (Princeton): Learning Symmetries and Counting\n\n• 4:50 - 5:30 PM | Michael Wu / Abhishek Bhattacharjee (Yale) : Relational Learning in Computer Systems\n\n6:00 - 8:00 PM | Dinner at Silliman Hall (505 College Street)\n\nFriday, November 17\n\n8:00 - 9:00 AM | Breakfast (11th floor common area)\n\n9:00 - 10:20 AM | Session 3 (Classroom 1167)\n\n• 9:00 - 9:40 AM | Jeff Johnston (Columbia): Abstractions and Multi-Task Learning\n\n• 9:40 - 10:20 AM | Shanka Mondal / Taylor Webb (Princeton): Applying the Relational Bottleneck to Complex Visual Inputs\n\n10:20 - 10:30 AM | Coffee (11th floor common area)\n\n10:30 AM - 12:00 PM | Session 4 (Classroom 1167)\n\n• 10:30 - 11:00 AM | Matteo Alman (Columbia): TBA\n\n• 11:00 AM - 12:00 PM | Brainstorm Session\n\nhttps://wti.yale.edu/event/2023-11/abstraction-and-relational-reasoning",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2023-12/counterintelligence": {
+    "url": "https://wti.yale.edu/event/2023-12/counterintelligence",
+    "summary": "Art in the Making at the Wu Tsai Institute — CounterIntelligence",
+    "start": "2023-12-14T16:00:00-05:00",
+    "end": "2023-12-14T17:30:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Art in the Making at the Wu Tsai Institute\nCounterIntelligence\n\nOn December 14, please join artist-in-residence Prudence Whittlesey for a presentation and reception to mark the end of her residency at the Wu Tsai Institute.\n\nCounterIntelligence is open to all at Yale who RSVP: https://forms.gle/1u75uTueHQCnXrjB6. Seating is limited. Read more about Whittlesey's residency at YaleNews.\n\nThe artist will describe her rigorous and repeatable protocol of artistic creation for the painting project titled CounterIntelligence, which she applied with 36 Yale researchers. She will report on preliminary findings and anticipate future developments toward understanding cognition through artistic protocols. The program will conclude with a speculative discussion of the meanings that emerge from shared experiences.\n\nArt in the Making\n\nView Gallery\n\nDaniel Colón-Ramos\n\nClose\n\nDaniel Colón-Ramos\n\nJohn Lafferty\n\nKelley Remole\n\nEyiyemisi Damisah\n\nIfat Levy\n\nPhilip Corlett\n\nhttps://wti.yale.edu/event/2023-12/counterintelligence",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-01/symposium-building-blocks-of-behavior": {
+    "url": "https://wti.yale.edu/event/2024-01/symposium-building-blocks-of-behavior",
+    "summary": "WTI Symposium — Building Blocks of Behavior",
+    "start": "2024-01-17T08:30:00-05:00",
+    "end": "2024-01-17T16:00:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Symposium\nBuilding Blocks of Behavior\n\nThe Wu Tsai Institute will host faculty candidates in a symposium at 100 College Street on January 17 in a full day of talks and refreshments. All Yale community members are welcome, and lunch will be provided for those who registered by January 12. View the symposium agenda, abstracts and speakers below. If you have any questions, please email us.\n\nSymposium Speakers\n\n•\n\n•\n\n•\n\n•\n\n•\n\nPrev\n\nNext\n\n•\n\nNew York University School of Medicine\n\nIsmail Ahmed\n\nIntersection of chemical biology and neuroscience\n\nLearn more: https://ismailahmed.org/\n\n•\n\nHarvard University\n\nKiah Hardcastle\n\nSystems neuroscience, computational neuroscience, motor learning, statistical models, learning and memory\n\nLearn more: https://www.kiahhardcastle.info/\n\n•\n\nHarvard University\n\nLuis Hernandez-Nunez\n\nHeart-brain interactions, brain-body interactions, interoception, control theory, systems neuroscience, connectomics, developmental neuroscience, integrative physiology\n\nLearn more: https://brain.harvard.edu/hbi_connectome/luis-hernandez-nunez/\n\n•\n\nPrinceton University\n\nHarry McNamara\n\nUsing tools from synthetic biology and physics to decode and control how stem cells self-organize collective programs of pattern formation and morphogenesis\n\nLearn more: https://lsi.princeton.edu/people/harry-mcnamara\n\n•\n\nHoward Hughes Medical Institute\n\nCatherine E. Schretter\n\nMolecular and circuit basis of social behaviors\n\nLearn more: https://www.janelia.org/people/katie-schretter\n\nAgenda + Abstracts\n\n8:30 AM - Refreshments\n\nRefreshments will be available beginning at at 8:30 AM, and doors will open at 8:45 AM.\n\n9:00 AM - Harry McNamara presents \"Decoding and controlling pattern formation in organoids\"\n\nAggregates of stem cells can break symmetry and self-organize the morphogenesis of embryo-like structures and gene expression patterns (e.g., organoids and embryoids). How multicellular self-organization emerges from signaling interactions between stem cells is not well understood. Tools from synthetic biology for measuring, recording, and controlling cell signaling dynamics enable quantitative tests of physical theories of symmetry breaking and pattern formation. We describe how this approach to ‘synthetic developmental biology’ can be used to decode and control programs of multicellular self-organization. We focus on describing symmetry breaking in the gastruloid, a stem cell model which recapitulates aspects of anteroposterior (A-P) patterning. It has been proposed that a reaction-diffusion Turing instability in Wnt signaling defines the posterior of the gastruloid. However, distinguishing candidate mechanisms of polarization requires linking early cell states to future cell positions along the A-P axis. We use synthetic “signal-recording” gene circuits to study symmetry breaking in the gastruloid during the evolution of a polarized Wnt pattern from an initially homogeneous state. We find that cell sorting, rather than a long-range Turing mechanism, rearranges early domains of Wnt activity […]\n\nhttps://wti.yale.edu/event/2024-01/symposium-building-blocks-of-behavior",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-01/inspiring-speaker-sabine-kastner": {
+    "url": "https://wti.yale.edu/event/2024-01/inspiring-speaker-sabine-kastner",
+    "summary": "Attention control in the primate brain",
+    "start": "2024-01-19T11:30:00-05:00",
+    "end": "2024-01-19T13:00:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06511",
+    "description": "Sabine Kastner\n\nProfessor, Princeton Neuroscience Institute + Department of Psychology, Princeton University\n\nSabine Kastner is a cognitive neuroscientist broadly interested in the neural basis and neurodevelopment of visual cognition in the primate brain. As attention function is foundational for all cognition, her talk will review studies on the neural basis of attention control and its neurodevelopment in the primate brain using behavioral, neuroimaging, and electrophysiological approaches in humans and monkeys.\n\nPlease join us on Friday, January 19, for “Attention Control in the Primate Brain.” For this talk, boxed lunches will be provided on a first-come, first-served basis. Kindly let us know if you’d like lunch in the RSVP form linked below.\n\nRSVP: https://forms.gle/jcwqbAYiHF4PXhQ99\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the Inspiring Speaker Series, hosted by Kia Nobre, Director of the Center for Neurocognition and Behavior and Wu Tsai Professor of Psychology. Please join us this semester for a series of talks at 100 College Street. View a complete list of upcoming talks in the series below. Email us with any questions.\n\nUpcoming Inspiring Speakers\n\nSave the dates\n\nMore details will be announced soon.\n\n1.29\nTim Brady\n\n2.2\nTim Buschman\n\n2.12\nNanthia Suthana\n\n2.19\nChris Baldassano\n\n2.23\nLila Davachi\n\n2.26\nDani Bassett\n\n3.4\nAaron Batista\n\n3.29\nJohn Krakauer\n\nhttps://wti.yale.edu/event/2024-01/inspiring-speaker-sabine-kastner",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-01/inspiring-speaker-tim-brady": {
+    "url": "https://wti.yale.edu/event/2024-01/inspiring-speaker-tim-brady",
+    "summary": "Population-based representations as an explanation for perception, working memory and long-term memory errors",
+    "start": "2024-01-29T11:00:00-05:00",
+    "end": "2024-01-29T12:30:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Timothy Brady\n\nProfessor, Department of Psychology, UC San Diego\n\nTimothy Brady is a cognitive scientist whose research focuses on the intersection of visual cognition and memory, using a combination of behavioral, cognitive neuroscience and computational methods.\n\nIn this talk, Brady will describe the insights that arise from considering how the visual system constrains memory representations. He will argue that we can make simple and highly explanatory cognitive models of perception and memory by considering the complex, high-dimensional nature of neural stimulus representations.\n\nPlease join us on Monday, January 29, for “Population-based representations as an explanation for perception, working memory and long-term memory errors.”\n\nRSVP HERE: https://forms.gle/sqvpv2DSp4rPFEDNA\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the Inspiring Speaker Series, hosted by Kia Nobre, Director of the Center for Neurocognition and Behavior and Wu Tsai Professor of Psychology. Please join us this semester for a series of talks at 100 College Street. View a complete list of upcoming talks in the series below. Email us with any questions.\n\nUpcoming Inspiring Speakers\n\nSave the dates\n\n2.2\nTim Buschman\n\n2.12\nNanthia Suthana\n\n2.19\nChris Baldassano\n\n2.23\nLila Davachi\n\n2.26\nDani Bassett\n\n3.4\nAaron Batista\n\n3.18\nJohn Krakauer\n\n3.22\nGeoff Schoenbaum\n\nhttps://wti.yale.edu/event/2024-01/inspiring-speaker-tim-brady",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-02/inspiring-speaker-tim-buschman": {
+    "url": "https://wti.yale.edu/event/2024-02/inspiring-speaker-tim-buschman",
+    "summary": "Neural dynamics of cognitive control",
+    "start": "2024-02-02T11:30:00-05:00",
+    "end": "2024-02-02T13:00:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Tim Buschman\n\nAssociate Professor, Princeton Neuroscience Institute and Department of Psychology, Princeton University\n\nTim Buschman is a systems neuroscientist interested in understanding how the brain controls behavior.\n\nCognitive control guides behavior by controlling what, where, and how information is represented in the brain. In this talk, Buschman will present evidence from his lab—dynamically transforming neural representations into and out of different ‘subspaces’ of neural activity can allow cognitive control to route information through the brain.\n\nPlease join us on Friday, February 2, for “Neural dynamics of cognitive control.”\n\nRSVP HERE: https://forms.gle/ac9ZeXtarxNKWPbT7\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the Inspiring Speaker Series, hosted by Kia Nobre, Director of the Center for Neurocognition and Behavior and Wu Tsai Professor of Psychology. Please join us this semester for a series of talks at 100 College Street. View a complete list of upcoming talks in the series below. Email us with any questions.\n\nUpcoming Inspiring Speakers\n\nSave the dates\n\n2.12\nNanthia Suthana\n\n2.19\nChris Baldassano\n\n2.23\nLila Davachi\n\n2.26\nDani Bassett\n\n3.4\nAaron Batista\n\n3.18\nJohn Krakauer\n\n3.22\nGeoff Schoenbaum\n\nhttps://wti.yale.edu/event/2024-02/inspiring-speaker-tim-buschman",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-02/inspiring-speaker-nanthia-suthana": {
+    "url": "https://wti.yale.edu/event/2024-02/inspiring-speaker-nanthia-suthana",
+    "summary": "Unraveling memories on the go",
+    "start": "2024-02-12T11:00:00-05:00",
+    "end": "2024-02-12T12:30:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Nanthia Suthana\n\nAssociate Professor, Departments of Psychiatry, Neurosurgery, and Bioengineering, UCLA\n\nNanthia Suthana is a cognitive neuroscientist interested in human learning and memory.\n\nRecent technology enables studying deep brain activity during memory phenomena in humans navigating real or virtual environments. These methods show dynamic modulation of hippocampal, entorhinal, and amygdala activity by factors like movement speed, eye movements, emotional valence, and memory success. This presentation will provide an overview of these findings and explore potential clinical applications, particularly in treating neuropsychiatric disorders such as post-traumatic stress disorder.\n\nPlease join us on February 12, 2024, for \"Unraveling memories on the go: insights from mobile intracranial EEG recordings in humans.\"\n\nRSVP HERE: https://forms.gle/L9oRHMHfhucAgSsh6\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the Inspiring Speaker Series, hosted by Kia Nobre, Director of the Center for Neurocognition and Behavior and Wu Tsai Professor of Psychology. Please join us this semester for a series of talks at 100 College Street. View a complete list of upcoming talks in the series below. Email us with any questions.\n\nUpcoming Inspiring Speakers\n\nSave the dates\n\n2.19\nChris Baldassano\n\n2.23\nLila Davachi\n\n2.26\nDani Bassett\n\n3.4\nAaron Batista\n\n3.18\nJohn Krakauer\n\n3.22\nGeoff Schoenbaum\n\nhttps://wti.yale.edu/event/2024-02/inspiring-speaker-nanthia-suthana",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-02/inspiring-speaker-chris-baldassano": {
+    "url": "https://wti.yale.edu/event/2024-02/inspiring-speaker-chris-baldassano",
+    "summary": "Building neural representations for realistic event sequences",
+    "start": "2024-02-19T11:00:00-05:00",
+    "end": "2024-02-19T12:30:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Christopher Baldassano\n\nAssistant Professor, Psychology Department, Columbia University\n\nChristopher Baldassano is a cognitive neuroscientist using machine learning techniques to uncover how dynamic representations in the mind and brain lead to the formation of event memories.\n\nOur everyday lives consist of familiar sequences of events in familiar contexts, and we use our memories of the past to understand the present and make predictions about the future. Baldassano will present recent studies in his lab that employ stories, movies, virtual reality, and games to investigate the mechanisms by which knowledge of temporal structure can organize our perceptions and memories.\n\nJoin us on February 19, 2024, for \"Building neural representations for realistic event sequences.\"\n\nRSVP HERE: https://forms.gle/VYbQfFKzco5LfWdU8\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the Inspiring Speaker Series, hosted by Kia Nobre, Director of the Center for Neurocognition and Behavior and Wu Tsai Professor of Psychology. Please join us this semester for a series of talks at 100 College Street. View a complete list of upcoming talks in the series below. Email us with any questions.\n\nUpcoming Inspiring Speakers\n\nSave the dates\n\n2.23\nLila Davachi\n\n2.26\nDani Bassett\n\n3.4\nAaron Batista\n\n3.18\nJohn Krakauer\n\n3.22\nGeoff Schoenbaum\n\nhttps://wti.yale.edu/event/2024-02/inspiring-speaker-chris-baldassano",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-02/inspiring-speaker-lila-davachi": {
+    "url": "https://wti.yale.edu/event/2024-02/inspiring-speaker-lila-davachi",
+    "summary": "The wisdom of the unconscious mind",
+    "start": "2024-02-23T11:30:00-05:00",
+    "end": "2024-02-23T13:00:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Lila Davachi\n\nProfessor, Department of Psychology, Columbia University\n\nLila Davachi is a cognitive neuroscientist studying the online and offline transformation of experiences into long-term memories and structured knowledge and how this knowledge influences new learning.\n\nDavachi will present research providing evidence that offline states provide a unique time window to view the inner workings of the human brain, prioritizing aspects of recent experience for consolidation. This work has revealed that post-encoding memory consolidation processes are flexible and adaptive in supporting the separation or integration of new experiences in hippocampal-cortical networks.\n\nPlease join us on February 23, 2024, for \"The wisdom of the unconscious mind: Offline reactivation consolidates, integrates, and updates knowledge.\"\n\nRSVP HERE: https://forms.gle/FhJeybkpmPVHzzeG7\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the Inspiring Speaker Series, hosted by Kia Nobre, Director of the Center for Neurocognition and Behavior and Wu Tsai Professor of Psychology. Please join us this semester for a series of talks at 100 College Street. View a complete list of upcoming talks in the series below. Email us with any questions.\n\nUpcoming Inspiring Speakers\n\nSave the dates\n\n2.26\nDani Bassett\n\n3.4\nAaron Batista\n\n3.18\nJohn Krakauer\n\n3.22\nGeoff Schoenbaum\n\n4.8\nWei Ji Ma\n\nhttps://wti.yale.edu/event/2024-02/inspiring-speaker-lila-davachi",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-02/inspiring-speaker-dani-bassett": {
+    "url": "https://wti.yale.edu/event/2024-02/inspiring-speaker-dani-bassett",
+    "summary": "Network cognition in a curious world",
+    "start": "2024-02-26T11:00:00-05:00",
+    "end": "2024-02-26T12:30:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Dani S. Bassett\n\nJ. Peter Skirkanich Professor, Departments of Bioengineering, Electrical and Systems Engineering, Physics and Astronomy, Neurology, and Psychiatry, University of Pennsylvania; External Professor at the Santa Fe Institute\n\nDani Bassett is a complex systems scientist interested in the structure, function, dynamics, and control of adaptive neural systems.\n\nBassett will draw together three lines of inquiry on connective curiosity (\"How do we connect bits of information as we walk about the world?\"), graph learning (\"How do we build larger network models from those connections?\"), and network control theory (\"How is that model building constrained by the brain's own connective structure?\"). The studies discussed will span experiment, model, and theory, and bridge human behavior, neural representations, and computational science.\n\nPlease join us on February 26, 2024, for \"Network cognition in a curious world.\"\n\nRSVP HERE: https://forms.gle/HsGr8DbRtZsTSMYF6\n\nThe Wu Tsai Institute presents the Inspiring Speaker Series, hosted by Kia Nobre, Director of the Center for Neurocognition and Behavior and Wu Tsai Professor of Psychology. Please join us this semester for a series of talks at 100 College Street. View a complete list of upcoming talks in the series below. Email us with any questions.\n\nUpcoming Inspiring Speakers\n\nSave the dates\n\n3.4\nAaron Batista\n\n3.18\nJohn Krakauer\n\n3.22\nGeoff Schoenbaum\n\n4.8\nWei Ji Ma\n\nhttps://wti.yale.edu/event/2024-02/inspiring-speaker-dani-bassett",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-03/inspiring-speaker-aaron-batista": {
+    "url": "https://wti.yale.edu/event/2024-03/inspiring-speaker-aaron-batista",
+    "summary": "The view of cognition from the motor cortex",
+    "start": "2024-03-04T11:00:00-05:00",
+    "end": "2024-03-04T12:30:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Aaron Batista\n\nProfessor, Department of Bioengineering, University of Pittsburgh\n\nAaron Batista is interested in sensory-motor coordination, learning, and memory in the motor system and how internal states set the context that influences behavior. Batista approaches these questions using Rhesus monkeys trained to perform challenging tasks. His lab records the activity of populations of neurons and uses computational principles and brain-computer interface techniques to formulate and test hypotheses.\n\nThe primary motor cortex is chiefly involved in motor control, but we are learning that it does far more than this. The motor cortex provides us with a window into whole-brain processes such as learning, memory formation, and the manner in which our internal states set the context for cognition.\n\nJoin us on March 4, 2024, for \"The view of cognition from the motor cortex.\"\n\nRSVP HERE: https://forms.gle/zs3rm2SNgMs35G8f6\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the Inspiring Speaker Series, hosted by Kia Nobre, Director of the Center for Neurocognition and Behavior and Wu Tsai Professor of Psychology. Please join us this semester for a series of talks at 100 College Street. View a complete list of upcoming talks in the series below. Email us with any questions.\n\nUpcoming Inspiring Speakers\n\nSave the dates\n\n3.18\nJohn Krakauer\n\n3.22\nGeoff Schoenbaum\n\n4.8\nWei Ji Ma\n\nhttps://wti.yale.edu/event/2024-03/inspiring-speaker-aaron-batista",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-03/inspiring-speaker-john-krakauer": {
+    "url": "https://wti.yale.edu/event/2024-03/inspiring-speaker-john-krakauer",
+    "summary": "The cognitive-motor interface: Two kinds of intelligence",
+    "start": "2024-03-18T11:30:00-04:00",
+    "end": "2024-03-18T13:00:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "John Krakauer\n\nJohn C. Malone Professor of Neurology, Neuroscience, and Physical Medicine and Rehabilitation, The Johns Hopkins University School of Medicine; External Professor at the Santa Fe Institute\n\nJoin us on March 18, 2024, for \"The cognitive- motor interface: Two kinds of intelligence,\" presented by John Krakauer.\n\nRSVP HERE: https://forms.gle/4gUhE2Me6sDFYVsp8\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the Inspiring Speaker Series, hosted by Kia Nobre, Director of the Center for Neurocognition and Behavior and Wu Tsai Professor of Psychology. Please join us this semester for a series of talks at 100 College Street. View a complete list of upcoming talks in the series below. Email us with any questions.\n\nUpcoming Inspiring Speakers\n\nSave the dates\n\n3.22\nGeoff Schoenbaum\n\n4.8\nWei Ji Ma\n\nhttps://wti.yale.edu/event/2024-03/inspiring-speaker-john-krakauer",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-03/inspiring-speaker-geoff-schoenbaum": {
+    "url": "https://wti.yale.edu/event/2024-03/inspiring-speaker-geoff-schoenbaum",
+    "summary": "Generalized cognitive mapping in the orbitofrontal cortex",
+    "start": "2024-03-22T11:30:00-04:00",
+    "end": "2024-03-22T13:00:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Geoff Schoenbaum\n\nDistinguished Investigator, Chief, Cellular and Neurocomputational Systems Branch, NIDA IRP\n\nGeoff Schoenbaum is a behavioral neuroscientist interested in understanding the neural circuits mediating associative learning and decision-making.\n\nThe orbitofrontal cortex (OFC) has long been associated with making good decisions, especially when they require mental models, or cognitive maps, of the environment, task, or problem to simulate likely outcomes. Neural correlates in the OFC reflect this mapping process, both within and, more interestingly, across problems, leading to the idea that the OFC supports the formation and use of generalized cognitive maps or schemas. Such schemas deploy prior knowledge to influence new learning, typically allowing proficiency on new problems to be achieved more quickly. His talk will review this work and then describe new studies that examine how neural correlates of cognitive maps in OFC generalize across problems with similar (and possibly divergent structures) and the extent to which this process depends on the hippocampus.\n\nJoin us on March 22, 2024, for \"Generalized cognitive mapping in the orbitofrontal cortex.\"\n\nRSVP HERE: https://forms.gle/c6fnMHMYhxXftBAb7\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the Inspiring Speaker Series, hosted by Kia Nobre, Director of the Center for Neurocognition and Behavior and Wu Tsai Professor of Psychology. Please join us this semester for a series of talks at 100 College Street. View a complete list of upcoming talks in the series below. Email us with any questions.\n\nUpcoming Inspiring Speaker\n\nSave the date\n\n4.8\nWei Ji Ma\n\nhttps://wti.yale.edu/event/2024-03/inspiring-speaker-geoff-schoenbaum",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-04/inspiring-speaker-wei-ji-ma": {
+    "url": "https://wti.yale.edu/event/2024-04/inspiring-speaker-wei-ji-ma",
+    "summary": "From adaptive planning to efficient coding",
+    "start": "2024-04-08T11:30:00-04:00",
+    "end": "2024-04-08T13:00:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Wei Ji Ma\n\nProfessor, Center for Neural Science and Department of Psychology, NYU\n\nWei Ji Ma is a computational cognitive scientist and computational neuroscientist interested in decision-making under uncertainty, planning, and social cognition.\n\nRSVP HERE: https://forms.gle/7wYFvE6YjHpVns1E6\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute's Inspiring Speaker Series is hosted by Kia Nobre, Director of the Center for Neurocognition and Behavior and Wu Tsai Professor of Psychology. Email us with any questions.\n\nhttps://wti.yale.edu/event/2024-04/inspiring-speaker-wei-ji-ma",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/conference-2024": {
+    "url": "https://wti.yale.edu/event/conference-2024",
+    "summary": "WTI Conference — Grand Challenges in Cognition",
+    "start": "2024-05-30T08:30:00-04:00",
+    "end": "2024-05-30T17:00:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06516",
+    "description": "WTI Conference\nGrand Challenges in Cognition\n\nThe Wu Tsai Institute presents Grand Challenges in Cognition, our 2024 annual conference.\n\nThe goal of this year’s conference is to bring together Wu Tsai Faculty Members to identify key scientific challenges on the critical path to understanding human cognition and exploring human potential. Identifying these challenges is the first step in launching the Institute’s new team science initiative that will provide internal support for interdisciplinary, moonshot projects. View the agenda and speakers below.\n\nAttendance is limited to Yale faculty who are also members of the Wu Tsai Institute. Registration is now closed.\n\nAgenda\n\n8:30 AM | Breakfast\n\nContinental breakfast will begin at 8:30 AM, and doors will open at 8:45 AM.\n\n9:00 AM | Opening Remarks\n\nInstitute director Nick Turk-Browne will welcome attendees and open the conference.\n\n9:20 AM | Foundation Models of the Brain\n\nChair: John Lafferty, Director of the Center for Neurocomputation and Machine Intelligence, John C. Malone Professor of Statistics & Data Science\n\nIn this session, we explore the potential of “foundation models” as a framework for studying the mind and brain. Researchers will discuss how some ideas used to train and deploy large language models for artificial intelligence (AI) systems might be adopted to model and integrate information from neuroscience data across species, tasks, and and spatiotemporal scales. Experimentalists and theoreticians will consider how this could form a platform to generate new insights and hypotheses about the general principles of cognition.\n\nSession Keynote\n\n9:30 AM | Foundation models for neuroscience by Blake Richards, Associate Professor of Computer Science and of Neurology and Neurosurgery, McGill University; Core Faculty Member, Mila (Quebec AI Institute)\n\n10:15 AM | Session discussion + refreshments\n\nYale Speakers\n\n10:30 AM | Brain circuits from multiple perspectives by Evelyn Lake, Assistant Professor of Radiology and Biomedical Imaging\n\n10:45 AM | Building the ChatGPT of the brain: Foundation models for multi-modal insights into cognition by David van Dijk, Assistant Professor of Medicine (Cardiovascular Medicine) and of Computer Science\n\n11:00 AM | Large language models to enhance complex scientific workflows by Arman Cohan, Assistant Professor of Computer Science\n\n11:15 AM | Training a neural network to understand the language of the brain by Smita Krishnaswamy, Associate Professor of Genetics and of Computer Science\n\n11:30 AM | Session discussion\n\n12:00 PM | Lunch\n\nBag lunches will be provided.\n\n1:00 PM | Neuroscience in the Wild\n\nChair: Kia Nobre, Director of the Center for Neurocognition and Behavior, Wu Tsai Professor of Psychology\n\nMost of our scientific understanding of cognition and behavior comes from highly controlled experimental settings. The advance of wearable, digital, and immersive technologies permits careful experimental manipulations and measurements as humans or animals behave in natural and ecological settings. The […]\n\nhttps://wti.yale.edu/event/conference-2024",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-07/undergrad-poster-symposium": {
+    "url": "https://wti.yale.edu/event/2024-07/undergrad-poster-symposium",
+    "summary": "Undergraduate Poster Symposium",
+    "start": "2024-07-24T14:30:00-04:00",
+    "end": "2024-07-24T16:30:00-04:00",
+    "location": "100 College Street, Floor 11 Workshop, Room 1116, New Haven, CT 06510",
+    "description": "The Wu Tsai Institute presents the 2024 Undergraduate Summer Poster Symposium in collaboration with the Physical and Engineering Biology (PEB) Summer Undergraduate Research Program.\n\nOn Wednesday, July 24, the 2024 Wu Tsai Undergraduate Fellows, PEB undergrad researchers, and other summer students training with Wu Tsai Faculty Members will present posters from their summer research at Yale. This joyous event is an excellent opportunity to learn about emerging research in the WTI Community. Students, trainees, faculty, and staff are encouraged to attend and be inspired by the innovative work of this summer's young scientists.\n\nUndergraduate Projects\n\nSarah Cook (Higley Lab)\n\nNeural circuits within the mammalian neocortex are formed through synaptic connections between cells over a range of spatial scales. Long-range (>1 mm) axons enable communication between cortical areas that subserve distinct sensory, motor, and cognitive modalities. Surprisingly, the structural underpinnings of these long-range projections remain poorly understood. Recent work has begun to shed light on the complex patterns of bouton density by soma location. Still, this analysis does not differentiate between synaptic contacts and non-synaptic boutons, each with distinct functional properties. We aim to apply novel synaptic labeling strategies to classify how synaptic density varies along the length of long-range contralateral projections in the somatosensory cortex of the mouse.\n\nWe take advantage of a mouse line with Cre recombinase-dependent conditional expression of the synaptic protein synaptophysin tagged with the red fluorophore tdTomato. We used adenoassociated viral (AAV) vectors to drive the expression of Cre alongside a green fluorescent marker GFP in cortical neurons extending both local and long-range contralateral-projecting axons, which can be imaged in fixed tissue with confocal microscopy. Preliminary analysis indicates that synaptic density varies along a mirrored gradient, with greater synaptic density as axons approach the cortical surface. On the contralateral side, we observe an opposite pattern in the density of axonal boutons without synaptophysin colocalization. This work provides the basis for further understanding of the morphological principles guiding long-range connectivity in the cortex and underscores the need to differentiate axonal boutons with and without synaptic contacts.\n\nAustin Curtis (Shen Lab)\n\nMembrane transport proteins move different small molecule metabolites and large macro-molecules like proteins across membranes, allowing a spatial control of countless biological processes between cells or between different subcellular compartments within cells. Despite being such vital components to metabolism and life, in humans, hundreds of these proteins are poorly characterized, and how they cooperate with lipids within the residing membrane needs to be better understood.\n\nOur research is focused on metabolite transport across […]\n\nhttps://wti.yale.edu/event/2024-07/undergrad-poster-symposium",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-09/inspiring-speaker-michael-frank": {
+    "url": "https://wti.yale.edu/event/2024-09/inspiring-speaker-michael-frank",
+    "summary": "WTI Inspiring Speaker: Michael C. Frank — Bridging the data gap between children and AI models",
+    "start": "2024-09-05T16:00:00-04:00",
+    "end": "2024-09-05T17:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Michael C. Frank\nBridging the data gap between children and AI models\nReception to follow\n\nLarge language and language-vision models show intriguing emergent behaviors, yet they receive at least three to four – and sometimes as many as six – orders of magnitude more language data than human children. What accounts for this vast difference in sample efficiency?\n\nIn this talk, Michael C. Frank will describe steps toward an ecosystem in which we can address this question. In particular, Frank will discuss the use of child language and egocentric video data for model training, along with the use of developmental data for model evaluation. This ecosystem has the potential to shed light on both the question of model efficiency as well as the nature of human learning.\n\nFrank will be hosted by Julia Leonard (Psychology).\n\nMichael C. Frank\n\nBenjamin Scott Crocker Professor of Human Biology; Director, Symbolic Systems Program\n\nStanford University\n\nFrank is a cognitive scientist studying children's language learning and development, with a focus on the use of large-scale datasets to understand the variability and consistency of learning across cultures.\n\nLEARN MORE: https://langcog.stanford.edu/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 5, 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View our upcoming events and subscribe to our monthly newsletter for updates.\n\nUpcoming Inspiring Speakers\n\n09.19.24\nOwen D. Jones | Vanderbilt\n\n10.17.24\nDean Buonomano | UCLA\n\n10.31.24\nJenn Phillips-Cremins | UPenn\n\n11.14.24\nJoel Zylberberg | York University\n\n12.12.24\nKatja Brose | Chan Zuckerberg Institute\n\n01.09.25\nAndy Leifer | Princeton\n\n01.23.25\nPeter Robin Hiesinger | Freie\n\n02.06.25\nRich Zemel | Columbia\n\n02.20.25\nMorgan Barense | University of Toronto\n\n03.06.25\nOlaf Sporns | Indiana University\n\n03.27.25\nKarla Miller | Oxford\n\n05.15.25\nJane Wang | Google DeepMind\n\nhttps://wti.yale.edu/event/2024-09/inspiring-speaker-michael-frank",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-09/inspiring-speaker-owen-jones": {
+    "url": "https://wti.yale.edu/event/2024-09/inspiring-speaker-owen-jones",
+    "summary": "WTI Inspiring Speaker: Owen D. Jones — Law and neuroscience: Promise and peril",
+    "start": "2024-09-19T16:00:00-04:00",
+    "end": "2024-09-19T17:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Owen D. Jones\nLaw and neuroscience: Promise and peril\nReception to follow\n\nHow might neuroscience constructively aid the legal system?\n\nIn this talk, Owen D. Jones provides an overview of the work of the MacArthur Foundation Research Network on Law and Neuroscience, which Jones directed, with examples of fMRI experiments co-designed by neuroscientists and legal scholars. These include projects assessing mental states, detecting autobiographical memories, learning how young adult brains differ from both juvenile and older adult brains, and discovering how brains make punishment decisions.\n\nJones will be hosted by Gideon Yaffe (Law, Philosophy, Psychology).\n\nOwen D. Jones\n\nWeaver Chair in Law, Brain, and Behavior; Professor of Law and of Biological Sciences; Director, Weaver Family Program in Law, Brain Sciences, and Behavior; Vanderbilt University\n\nJones works at the intersection of law and brain sciences with an emphasis on decision-making and behavior.\n\nLearn More: https://law.vanderbilt.edu/bio/?pid=owen-jones\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 5, 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk. Presentations are recorded and will be posted online at a later date.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View our upcoming events and subscribe to our monthly newsletter for updates.\n\nUpcoming Inspiring Speakers\n\n10.17.24\nDean Buonomano | UCLA\n\n10.31.24\nJenn Phillips-Cremins | UPenn\n\n11.14.24\nJoel Zylberberg | York University\n\n12.12.24\nKatja Brose | Chan Zuckerberg Institute\n\n01.09.25\nAndy Leifer | Princeton\n\n01.23.25\nPeter Robin Hiesinger | Freie\n\n02.06.25\nRich Zemel | Columbia\n\n02.20.25\nMorgan Barense | University of Toronto\n\n03.06.25\nOlaf Sporns | Indiana University\n\n03.27.25\nKarla Miller | Oxford\n\n05.15.25\nJane Wang | Google DeepMind\n\nhttps://wti.yale.edu/event/2024-09/inspiring-speaker-owen-jones",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-09/fall-connection": {
+    "url": "https://wti.yale.edu/event/2024-09/fall-connection",
+    "summary": "WTI Student + Postdoc Committee Social — Fall into Connection",
+    "start": "2024-09-21T14:00:00-04:00",
+    "end": "2024-09-21T16:00:00-04:00",
+    "location": "Amistad Park, 255 Cedar Street, New Haven, CT 06510",
+    "description": "WTI Student + Postdoc Committee Social\nFall into Connection\n\nThe WTI Student and Postdoc Committee invites you to our semester kick-off event, Fall into Connection, on Saturday, September 21, at Amistad Park, New Haven. Bring your own blanket and join us for an afternoon of making new friends, playing yard games, enjoying local donuts, and sipping apple cider.\n\nEveryone is welcome! You do not have to be a Wu Tsai Institute member to attend. If you're curious about cognition and the brain, you're one of us—so come along, and feel free to bring friends and family, too! If there is inclement weather, our rain date will be Sunday, September 22. Questions? Contact wti.spc@yale.edu.\n\nhttps://wti.yale.edu/event/2024-09/fall-connection",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-10/inspiring-speaker-jennifer-phillips-cremins": {
+    "url": "https://wti.yale.edu/event/2024-10/inspiring-speaker-jennifer-phillips-cremins",
+    "summary": "WTI Inspiring Speaker: Jennifer E. Phillips-Cremins — The science of connections: Bridging chromatin, synaptic plasticity, and neurophysiology",
+    "start": "2024-10-31T16:00:00-04:00",
+    "end": "2024-10-31T17:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Jennifer E. Phillips-Cremins\nThe science of connections: Bridging chromatin, synaptic plasticity, and neurophysiology\n\nIn this talk, Jennifer E. Phillips-Cremins provides insight into the work at the Cremins Laboratory, working at the spatial biology-technology interface to investigate the structure-function relationship of connections across the scales of chromatin, synapses, and circuits in the developing and diseased mammalian brain. They have thus far focused in the nucleus to understand how classic epigenetic modifications work through long-range physical folding mechanisms to govern genome function. At the lab’s inception, it was unknown how genomes fold in the mammalian brain below the resolution of a Megabase (Mb), and whether and how higher-order chromatin structure could deterministically influence genome function.\n\nThe lab has developed and applied new molecular and computational technologies to elucidate chromatin folding patterns at kilobase-resolution genome-wide, thus discovering that long-range loops in cis and inter-chromosomal interactions in trans change substantially and functionally contribute to new gene expression patterns during neural lineage commitment, somatic cell reprogramming, neural maturation during brain development in vivo, stimulation of neural circuits in vitro, and in neurological disorders of fragile X syndrome (FXS) and familial Alzheimer’s disease (FAD). The long-term goal is to elucidate how the genome’s structure-function relationship influences synaptic plasticity during memory encoding and consolidation and how this goes awry in intractable neurological disorders.\n\nPhillips-Cremins will be hosted by Kristen Brennand (Psychiatry, Genetics).\n\nJennifer E. Phillips-Cremins\n\nAssociate Professor, Department of Genetics, Department of Bioengineering, Epigenetics Institute, University of Pennsylvania\n\nPhillips-Cremins is a molecular and cellular neurobiologist interested in chromatin-synapse communication in long-term memory storage and how this goes awry in intractable neurological disorders.\n\nLearn more: https://creminslab.com/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View upcoming talks and subscribe to our monthly newsletter for updates.\n\nhttps://wti.yale.edu/event/2024-10/inspiring-speaker-jennifer-phillips-cremins",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-11/inspiring-speaker-joel-zylberberg": {
+    "url": "https://wti.yale.edu/event/2024-11/inspiring-speaker-joel-zylberberg",
+    "summary": "WTI Inspiring Speaker: Joel Zylberberg — A neuro-AI framework for visual neuroscience: Digital twins of the eyes and the brain",
+    "start": "2024-11-14T16:00:00-05:00",
+    "end": "2024-11-14T17:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Joel Zylberberg\nA neuro-AI framework for visual neuroscience: Digital twins of the eyes and the brain\nReception to follow\n\nJoel Zylberberg aims to develop computational models that respond to visual stimuli the same way our eyes and brains do. To achieve this goal, his lab has begun to develop hybrid neuro-AI models that incorporate biophysically-detailed neuron models into fully-trainable AI architectures. In this talk, Zylberberg will show how these hybrid neuro-AI models enable us to overcome key challenges in using AI to build digital twins of the visual system.\n\nJoel Zylberberg\n\nCanada Research Chair in Computational Neuroscience and Associate Professor, York University\n\nZylberberg is a computational neuroscientist who develops machine learning tools to study eyes and brains.\n\nLEARN MORE: http://jzlab.org/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View upcoming talks and subscribe to our monthly newsletter for updates.\n\nhttps://wti.yale.edu/event/2024-11/inspiring-speaker-joel-zylberberg",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-12/inspiring-speaker-katja-brose": {
+    "url": "https://wti.yale.edu/event/2024-12/inspiring-speaker-katja-brose",
+    "summary": "WTI Inspiring Speaker: Katja Brose — From publishing to philanthropy: Seeing science from 30,000 feet",
+    "start": "2024-12-12T16:00:00-05:00",
+    "end": "2024-12-12T17:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Katja Brose\nFrom publishing to philanthropy: Seeing science from 30,000 feet\nReception to follow\n\nIn this talk, Katja Brose provides an overview of the Chan Zuckerberg Initiative Science and its strategy to support the basic science and technology that will make it possible to cure, prevent, and manage all diseases by the end of the century. Specifically, the presentation focuses on CZI’s efforts in neuroscience and how they are building new models for collaboration and innovation. Brose will also share her career trajectory from research scientist to journal editor to science philanthropy along with personal reflections on the field and its future.\n\nBrose will be hosted by Pietro De Camilli (Neuroscience, Cell Biology).\n\nKatja Brose\n\nSenior Science Program Officer, Chan Zuckerberg Initiative\n\nBrose leads CZI's program efforts for neuroscience and neurodegenerative disease. Before joining CZI, she was part of the editorial team at Cell Press for 17 years, where from 2004-2017 she was Editor-in-Chief of Neuron and a Publishing Director at Cell Press-Elsevier.\n\nLEARN MORE: https://www.linkedin.com/in/katjabrose/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View upcoming talks and subscribe to our monthly newsletter for updates.\n\nhttps://wti.yale.edu/event/2024-12/inspiring-speaker-katja-brose",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-01/inspiring-speaker-andrew-leifer": {
+    "url": "https://wti.yale.edu/event/2025-01/inspiring-speaker-andrew-leifer",
+    "summary": "WTI Inspiring Speaker: Andrew Leifer — Neural signal propagation atlas of C. elegans",
+    "start": "2025-01-09T16:00:00-05:00",
+    "end": "2025-01-09T17:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Andrew Leifer\nNeural signal propagation atlas of C. elegans\nReception to follow\n\nIn the age of connectomics, it is increasingly important to understand how the structure of a brain's anatomical network gives rise to neural signaling and neural function. In this talk, Andrew Leifer will present the first comprehensive brain-wide cell-resolved causal measurements of how neurons signal to one another in response to stimulation in the nematode C. elegans. He compares this signal propagation atlas to the worm's known connectome and transcriptome to address fundamental questions of structure and function in the brain.\n\nLeifer will be hosted by Marc Hammarlund (Genetics, Neuroscience).\n\nAndrew Leifer\n\nAssociate Professor of Physics and Neuroscience, Princeton University\n\nLeifer is a biological physicist and systems neuroscientist who performs innovative measurements of neural activity and behavior in the nematode C. elegans to study how brains process information and generate actions.\n\nLeifer's Lab\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 5, 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View our upcoming events and subscribe to our monthly newsletter for updates.\n\nhttps://wti.yale.edu/event/2025-01/inspiring-speaker-andrew-leifer",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-01/postdoc-symposium-new-minds-computation-cognition": {
+    "url": "https://wti.yale.edu/event/2025-01/postdoc-symposium-new-minds-computation-cognition",
+    "summary": "WTI Postdoctoral Symposium — New Minds in Computation and Cognition",
+    "start": "2025-01-22T09:30:00-05:00",
+    "end": "2025-01-22T12:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Postdoctoral Symposium\nNew Minds in Computation and Cognition\n\nWTI presents three outstanding young scientists to share their research bridging computation and cognition. Join us on January 22 at 100 College to learn about new findings across these fields and explore potential collaborations with aspiring computational Wu Tsai Postdoctoral Fellows. All Yale community members are welcome.\n\nView the working agenda and speakers below. Faculty members, if you would like to meet one-on-one with any of these speakers, please contact WTI's program manager, Liz Knapp.\n\nAgenda + Speakers\n\n9:30 am | Breakfast\n\nArrive early for breakfast and coffee beginning at 9:30 am in the Floor 11 lounge.\n\n10:00 am | Aidan Schneider\n\nGenetics, anatomy, and state are embedded in the activity of individual neurons\n\nArea: Computational and systems biology\nLab of Keith Hengen, Washington University\n\n10:45 am | Laura Ruis\n\nFrom tokens to thought: How do large language models learn?\n\nArea: Artificial intelligence\nLabs of Tim Rocktäschel and Ed Grefenstette, University College London\n\n11:30 am | Sreejan Kumar\n\nAbstraction in human and machine learning\n\nArea: Quantitative and computational neuroscience\nLabs of Tom Griffiths and Jon Cohen, Princeton University\n\nhttps://wti.yale.edu/event/2025-01/postdoc-symposium-new-minds-computation-cognition",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-01/inspiring-speaker-peter-robin-hiesinger": {
+    "url": "https://wti.yale.edu/event/2025-01/inspiring-speaker-peter-robin-hiesinger",
+    "summary": "WTI Inspiring Speaker: P. Robin Hiesinger — How genomes make neural networks",
+    "start": "2025-01-23T16:00:00-05:00",
+    "end": "2025-01-23T17:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: P. Robin Hiesinger\nHow genomes make neural networks\nReception to follow\n\nBiological neural networks grow through genome-driven processes that can encode entire behavioral sequences prior to learning: babies, in contrast to current AI systems, are not born with empty networks and switched on to learn. But how does a genome 'encode' information in a neural network? To answer this question, it helps to observe how neurons choose to connect in their natural habitat: the developing brain. The Hiesinger lab has pioneered live imaging of such adolescent neuronal behavior, including cooperation, self-organization, competition, and fights for life and death in their search for partners. Such genome-driven processes ensure flexibility and robustness and that there is no fundamental limit to how much information the growth process can encode in a neural network.\n\nHiesinger will be hosted by Damon Clark (Molecular, Cellular, and Developmental Biology; Physics; Neuroscience).\n\nP. Robin Hiesinger\n\nProfessor and Head of Neurobiology, Freie Universität Berlin\n\nHiesinger is a neurobiologist interested in how neural networks become brains and the author of The Self-Assembling Brain.\n\nLEARN MORE: https://lab.flygen.org/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View upcoming talks and subscribe to our monthly newsletter for updates.\n\nhttps://wti.yale.edu/event/2025-01/inspiring-speaker-peter-robin-hiesinger",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-02/inspiring-speaker-morgan-barense": {
+    "url": "https://wti.yale.edu/event/2025-02/inspiring-speaker-morgan-barense",
+    "summary": "WTI Inspiring Speaker: Morgan Barense — Enhancing real-world event memory",
+    "start": "2025-02-20T16:00:00-05:00",
+    "end": "2025-02-20T17:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Morgan Barense\nEnhancing real-world event memory\nReception to follow\n\nMemory is essential for shaping how we interpret the world, plan for the future, and understand ourselves, yet effective cognitive interventions for real-world episodic memory loss remain scarce. In this talk, Morgan Barense, introduces HippoCamera, a smartphone-based intervention inspired by how the brain supports memory, designed to enhance real-world episodic recollection by replaying high-fidelity autobiographical cues. It will showcase how our approach improves memory, mood, and hippocampal activity while uncovering links between memory distinctiveness, well-being, and the perception of time.\n\nBarense will be hosted by Nick Turk-Browne (Psychology).\n\nMorgan Barense\n\nProfessor, Department of Psychology, University of Toronto; Director, Toronto Neuroimaging Facility; Senior Scientist, Rotman Research Institute, Baycrest Hospital\n\nBarense is a cognitive neuroscientist interested in how the brain supports memory and how memory is affected by brain damage or disease.\n\nLEARN MORE: https://barense.psych.utoronto.ca/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View upcoming talks and subscribe to our monthly newsletter for updates.\n\nhttps://wti.yale.edu/event/2025-02/inspiring-speaker-morgan-barense",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-02/symposium-interactive-systems": {
+    "url": "https://wti.yale.edu/event/2025-02/symposium-interactive-systems",
+    "summary": "WTI Symposium — Interactive Systems in Cognition",
+    "start": "2025-02-21T09:00:00-05:00",
+    "end": "2025-02-21T12:00:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Symposium\nInteractive Systems in Cognition\n\nThe Wu Tsai Institute will host a symposium featuring faculty job candidates at 100 College Street in the 11th floor Workshop (room 1116) on Friday, February 21, 2025. All members of the Yale community are invited to attend a morning of fascinating science hosted by Kia Nobre, Director of WTI’s Center for Neurocognition and Behavior.\n\nView the symposium agenda, abstracts, and speakers listed below. For any questions, please contact wti@yale.edu.\n\nSpeakers + Host\n\n•\n\n•\n\n•\n\n•\n\nPrev\n\nNext\n\n•\n\nSpeaker\n\nSaikat Ray, Weizmann Institute of Science\n\nRay is a postdoctoral systems neuroscientist using ethological and computational methods to understand the neural basis of real-world animal behaviors.\n\nLEARN MORE: https://www.weizmann.ac.il/brain-sciences/labs/ulanovsky/group\n\n•\n\nSpeaker\n\nDiana Liao, Institute of Neurobiology, University of Tuebingen\n\nLiao is a postdoctoral systems neuroscientist interested in comparative cognition and communication systems.\n\nLEARN MORE: https://www.dianaaliao.com/\n\n•\n\nSpeaker\n\nIsaac Kauvar, Stanford University\n\nKauver is a postdoctoral systems neuroscientist studying conserved and clinically relevant brain-wide neural dynamics that shape emotion, cognition, and their interactions.\n\nLEARN MORE: https://ikauvar.github.io/\n\n•\n\nFaculty Host\n\nKia Nobre\n\nNobre is a cognitive neuroscientist interested in the organizing principles of the brain systems that support adaptive human cognition and behavior. She is the Director of the Center for Neurocognition and Behavior, Associate Director of the Wu Tsai Institute, and Wu Tsai Professor of Psychology at Yale.\n\nLEARN MORE: https://wti.yale.edu/profile/kia-nobre\n\nAgenda + Abstracts\n\n9:00 am | Opening remarks\n\nKia Nobre will welcome attendees and open the conference.\n\n9:10 - 10:00 am | Saikat Ray, \"Real world neuroscience\"\n\nHow does the brain represent the real world in natural, multi-animal settings?\n\nSaikat Ray will discuss his work using wireless neural recordings in the hippocampal formation of freely flying bats in social groups, both in a laboratory-based cave and outside on an oceanic island. These studies provide the first insights into the neural encoding of real-world places and societies.\n\n10:00 - 10:50 am | Diana Liao, \"Cognitive building blocks for communication in crows\"\n\nHow does communication emerge in diverse animal species and brain architectures?\n\nDiana Liao will present research in which crows volitionally control their vocalizations by \"counting out loud.\" The studies aim to uncover convergent (and divergent) solutions for cognition using behavioral modeling, electrophysiology, and functional ultrasound imaging.\n\n10:50 - 11:10 am | Refreshment break\n\nLight refreshments and coffee will be available in the lounge.\n\n11:10 am - 12:00 pm | Isaac Kauvar, \"Brain-wide and cross-species neural dynamics of affective behavior\"\n\nHow do distributed emotional states interact with cognitive representations and neural computations?\n\nIsaac Kauvar will present research using […]\n\nhttps://wti.yale.edu/event/2025-02/symposium-interactive-systems",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-02/special-seminar-clay-reid": {
+    "url": "https://wti.yale.edu/event/2025-02/special-seminar-clay-reid",
+    "summary": "WTI Inspiring Speaker: R. Clay Reid — The promise of whole-brain connectomics",
+    "start": "2025-02-27T16:00:00-05:00",
+    "end": "2025-02-27T17:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: R. Clay Reid\nThe promise of whole-brain connectomics\n\nNetwork anatomy at cellular resolution in mouse and human brains\n\nIn recent years, new tools have emerged for circuit reconstructions in mammalian brains. For local circuits, large-scale electron-microscopic reconstructions (EM connectomics) can now map synaptic connectivity in networks up to tens of thousands of neurons. So far, long-distance axonal projections in mammals can only be reconstructed sparsely, with targeted injections of tracers, so mapping individual axons has never been achieved in humans. Reid will describe a new program to create a densely sampled map of axonal projections, with the long-term goal of reconstructing the trajectories of many/most large projection axons (>1 um diameter) to create an axonal connectome of the human brain.\n\nR. Clay Reid\n\nSenior Investigator, Connectomics Department, Allen Institute\n\nReid is a systems neuroscientist interested in structure/function relations in the mammalian brain, using microscale/synaptic connectomics of local circuits and whole-brain axonal mapping.\n\nLEARN MORE: https://alleninstitute.org/person/r-clay-reid/\n\nhttps://wti.yale.edu/event/2025-02/special-seminar-clay-reid",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-03/inspiring-speaker-olaf-sporns": {
+    "url": "https://wti.yale.edu/event/2025-03/inspiring-speaker-olaf-sporns",
+    "summary": "WTI Inspiring Speaker: Olaf Sporns — Connectomics and network science: Understanding the brain as a complex system",
+    "start": "2025-03-06T16:00:00-05:00",
+    "end": "2025-03-06T17:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Olaf Sporns\nConnectomics and network science: Understanding the brain as a complex system\nReception to follow\n\nOlaf Sporns will cover several topics in network neuroscience, including the basics of connectomics, structure/function relationships as disclosed in neuroimaging data, the design of computational models to map information flow and communication dynamics, and a novel edge-centric approach to tracking dynamic functional connectivity.\n\nOlaf Sporns\n\nDistinguished Professor and Provost Professor, Psychological and Brain Sciences, Indiana University Bloomington\n\nSporns is a computational cognitive neuroscientist interested in brain connectivity and networks.\n\nREAD MORE\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View upcoming talks and subscribe to our monthly newsletter for updates.\n\nhttps://wti.yale.edu/event/2025-03/inspiring-speaker-olaf-sporns",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-03/symposium-computation-and-cognition": {
+    "url": "https://wti.yale.edu/event/2025-03/symposium-computation-and-cognition",
+    "summary": "WTI Symposium — Computation and Cognition",
+    "start": "2025-03-07T09:00:00-05:00",
+    "end": "2025-03-07T12:00:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Symposium\nComputation and Cognition\n\nThe Wu Tsai Institute will host a symposium featuring faculty job candidates at 100 College Street in the 11th floor Workshop (room 1116) on Friday, March 7, 2025. All members of the Yale community are invited to attend a morning of cutting-edge science hosted by John Lafferty, Director of WTI’s Center for Neurocomputation and Machine Intelligence.\n\nView the symposium agenda, abstracts, and speakers listed below. For any questions, please contact wti@yale.edu.\n\nSpeakers\n\nBlake Bordelon\n\nPhD Candidate, Harvard University\n\nErin Grant\n\nSenior Research Fellow, Gatsby Unit and Sainsbury Wellcome Centre, University College London\n\nYuanzhao Zhang\n\nOmidyar Fellow, Santa Fe Institute\n\nAgenda + Abstracts\n\n9:00 am | Opening remarks\n\nJohn Lafferty will welcome attendees and open the conference.\n\n9:10 - 10:00 am | Yuanzhao Zhang, “Model-free inference and zero-shot forecast in complex systems”\n\nZhang will discuss the ability of time-series foundation models to zero-shot forecast dynamic systems. The findings reveal that LLMs utilize context parroting as a key mechanism. Exploring zero-shot forecasting strategies beyond parroting can provide insights into how artificial and natural intelligence learn from limited data.\n\n10:00 - 10:50 am | Erin Grant, “From mechanisms to cognition in neural networks”\n\nNeural networks optimized with generic learning objectives acquire representations that support remarkable behavioral flexibility. Grant will illustrate how interpreting and analyzing neural networks lays the groundwork for a productive account of how cognitive capacities arise in neural systems.\n\n10:50 - 11:10 am | Refreshment break\n\nLight refreshments and coffee will be available in the lounge.\n\n11:10 am - 12:00 pm | Blake Bordelon, “How learning rule and representation control the inductive bias of neural circuits”\n\nFor a learning algorithm to generalize to unseen data, it must choose one of many possible ways to extrapolate beyond existing data, a property known as the inductive bias of the learner. Bordelon examines how neural representation geometry, learning rule, and architecture influence the inductive bias of neural circuits in solvable mathematical models. The findings can be used to guide scaling and design principles for deep learning systems.\n\nhttps://wti.yale.edu/event/2025-03/symposium-computation-and-cognition",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-03/molecule-scale-resolution-and-dynamics-fluorescence-microscopy": {
+    "url": "https://wti.yale.edu/event/2025-03/molecule-scale-resolution-and-dynamics-fluorescence-microscopy",
+    "summary": "WTI Seminar: Stefan W. Hell — Molecule-scale resolution and dynamics in fluorescence microscopy",
+    "start": "2025-03-12T11:00:00-04:00",
+    "end": "2025-03-12T12:00:00-04:00",
+    "location": "100 College Street, Floor 1, Room 180A, New Haven, CT 06510",
+    "description": "WTI Seminar: Stefan W. Hell\nMolecule-scale resolution and dynamics in fluorescence microscopy\n\nhttps://wti.yale.edu/event/2025-03/molecule-scale-resolution-and-dynamics-fluorescence-microscopy",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-03/sigune-hamann-premiere": {
+    "url": "https://wti.yale.edu/event/2025-03/sigune-hamann-premiere",
+    "summary": "Whatever it does, it's doing it now: Artist Sigune Hamann in conversation with Kia Nobre",
+    "start": "2025-03-18T16:00:00-04:00",
+    "end": "2025-03-18T17:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "The Wu Tsai Institute presents the 2025 Artist-in-Residence, Sigune Hamann.\n\nIn conversation with Kia Nobre, Hamann will discuss her research studio practice, photographic film-strips, and the work she is undertaking while in residence at the Wu Tsai Institute. Examples of Hamann's current works will be on display, and the audience will have ample opportunity to engage directly with the artist.\n\nLearn more about Hamann and her residency at the Institute below, and join us on March 18 for an engaging discussion and light refreshments at 100 College Street. No RSVP is necessary. Please email the Institute with questions.\n\nAbout the Artist\n\nLondon-based artist Sigune Hamann works with experimental photography and sound, archive research, and interdisciplinary collaboration. In her ongoing practice of taking film strips, Hamann uses a photographic camera like a movie camera-exposing a whole 35mm film in one continuous rewinding movement while turning around, producing a panoramic image from a 360-degree perspective. The work negotiates the relationship between photography (image) and time-space correlations, focusing on interpersonal and collective experience. In her current projects (Hannah Höchs' House and Kurt Schwitters' Merzbarn in Progress), Hamann mediates radical modernist positions in the medium of collage. She is a Reader in Art and Media Practice at the University of the Arts London and has an ongoing collaboration with Kia Nobre.\n\nLEARN MORE: http://www.sigune.co.uk/\n\nKUNSTRAUM, Düsseldorf | 2017\n\nAbout the Residency\n\nAs Artist-in-Residence at the Wu Tsai Institute, Sigune Hamann will develop a series of photographic studies. Through exchanges with scientists, staff, and students, she will explore the dynamics of image perception and address and disrupt conventions of using images as 'pre-formatted' pictorial representations. The artist will mount temporary photographic interventions in the collective environments at the Wu Tsai Institute, thereby creating productive tensions between pictorial and everyday space. The studies will function as co-montages with scientific experiments and thinking to stimulate interdisciplinary inquiry.\n\nHamann is in residence for the Spring 2025 semester, and can be reached via email.\n\nhttps://wti.yale.edu/event/2025-03/sigune-hamann-premiere",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-03/inspiring-speaker-karla-miller": {
+    "url": "https://wti.yale.edu/event/2025-03/inspiring-speaker-karla-miller",
+    "summary": "WTI Inspiring Speaker: Karla Miller — MRI methods for crossing scales in neuroscience",
+    "start": "2025-03-27T16:00:00-04:00",
+    "end": "2025-03-27T17:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Karla Miller\nMRI methods for crossing scales in neuroscience\nReception to follow\n\nThere is an increasing consensus in the neuroscience community that the next major advances in neuroscience require us to span scales, species and tools. In this talk, Karla Miller will present examples of how our group is taking on this challenge in two very different domains: scales of space and people. She will discuss her work that directly combines MRI with microscopy, including technical challenges and the possible new insights. Miller will overview the Biobank neuroimaging resource, which is scanning 100,000 people with six separate imaging modalities. Time permitting, she will discuss how the two directions can be combined to create virtuous cycles of discovery-hypothesis-discovery linking in-vivo, ex-vivo, animal and population neuroimaging.\n\nMiller will be hosted by Gregory McCarthy (Psychology).\n\nKarla Miller\n\nProfessor of Biomedical Engineering, University of Oxford\n\nMiller develops novel methods for acquiring, reconstructing and analyzing MRI scans of the brain.\n\nLEARN MORE: https://www.ndcn.ox.ac.uk/team/karla-miller\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View upcoming talks and subscribe to our monthly newsletter for updates.\n\nhttps://wti.yale.edu/event/2025-03/inspiring-speaker-karla-miller",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-04/inspiring-speaker-elizabeth-hillman": {
+    "url": "https://wti.yale.edu/event/2025-04/inspiring-speaker-elizabeth-hillman",
+    "summary": "WTI Inspiring Speaker: Elizabeth M. C. Hillman — Trying to decode the real-time brain",
+    "start": "2025-04-10T16:00:00-04:00",
+    "end": "2025-04-10T17:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Elizabeth M. C. Hillman\nTrying to decode the real-time brain\nReception to follow\n\nUsing a range of custom-developed imaging and microscopy methods, we can acquire large-scale recordings of neuronal activity across the brains of awake, behaving animals across species from worms and flies, to mice. Analyzing ‘real-time’ neuronal activity patterns in the context of spontaneous behaviors, we have identified new ways to map and classify the roles of brain regions involved in movement generation, and to interpret brain-wide, ‘resting-state’ neuronal activity patterns in the context of real-time behaviors.\n\nElizabeth M. C. Hillman\n\nProfessor of Biomedical Engineering and Radiology (Physics), Columbia University\n\nHillman's lab develops and applies novel optical imaging and microscopy methods to study the structure and function of the brain in health and disease.\n\nREAD MORE\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View upcoming talks and subscribe to our monthly newsletter for updates.\n\nhttps://wti.yale.edu/event/2025-04/inspiring-speaker-elizabeth-hillman",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2024-10/inspiring-speaker-dean-buonomano": {
+    "url": "https://wti.yale.edu/event/2024-10/inspiring-speaker-dean-buonomano",
+    "summary": "WTI Inspiring Speaker: Dean Buonomano — The nature and neuroscience of time",
+    "start": "2025-05-01T16:00:00-04:00",
+    "end": "2025-05-01T17:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Dean Buonomano\nThe nature and neuroscience of time\nReception to follow\n\nQuestions pertaining to the nature of time span physics, philosophy, and neuroscience, but time is particularly fundamental in neuroscience because the brain tells time, stores information about the past in order to predict the future, and allows us to engage in mental time travel. Because of the fundamental importance of time, the brain can tell time across a broad range of temporal scales, but relies on different mechanisms across these scales. In this talk, Dean Buonomano describes experimental and neurocomputational work—indicating that the brain uses its inherent neural dynamics to tell time on a scale of seconds and produce appropriately timed motor behaviors necessary for survival.\n\nDean Buonomano\n\nProfessor, Departments of Neurobiology and Psychology, UCLA\n\nBuonomano is a computational and experimental neuroscientist interested in the neural basis of temporal processing, neural dynamics, and how neocortical circuits learn to perform neurocomputations autonomously.\n\nLEARN MORE: https://www.buonomanolab.com/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View upcoming talks and subscribe to our monthly newsletter for updates.\n\nhttps://wti.yale.edu/event/2024-10/inspiring-speaker-dean-buonomano",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-05/inspiring-speaker-jane-wang": {
+    "url": "https://wti.yale.edu/event/2025-05/inspiring-speaker-jane-wang",
+    "summary": "WTI Inspiring Speaker: Jane Wang — On the importance of acting in a complex world",
+    "start": "2025-05-15T16:00:00-04:00",
+    "end": "2025-05-15T17:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Jane Wang\nOn the importance of acting in a complex world\nReception to follow\n\nJane Wang\n\nStaff research scientist, Google DeepMind\n\nWang is an AI researcher interested in creating and understanding novel learning algorithms inspired by cognitive science and neuroscience for the next generation of frontier foundation agents.\n\nLEARN MORE: https://www.janexwang.com/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute presents the 2024-25 Inspiring Speaker Series.\n\nThe Institute’s new signature series features an interdisciplinary lineup of speakers studying the mind and brain from different angles, including perspectives from beyond academia. These speakers were selected for their ability to bridge and communicate across disciplines with state-of-the-art research and ideas relevant to the entire Wu Tsai Community.\n\nTalks occur on Thursdays at 4:00 pm approximately every two weeks, beginning September 2024. They take place in the Workshop on the 11th floor of the Wu Tsai Institute at 100 College Street. There will be an opportunity for questions and a reception following each talk.\n\nAll members of the Yale community are welcome. Please contact wti@yale.edu if you have any accessibility-related needs. View upcoming talks and subscribe to our monthly newsletter for updates.\n\nPassive learning limits current AI's ability to truly understand causality and act effectively; the future lies in 'foundation agents' trained via active interaction and experiential data. By learning through direct engagement with complex environments, these agents can develop the robust, causal understanding needed for effective real-world performance. This transition from static models to active agents is essential for advancing AI capabilities.\n\nhttps://wti.yale.edu/event/2025-05/inspiring-speaker-jane-wang",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/conference-2025": {
+    "url": "https://wti.yale.edu/event/conference-2025",
+    "summary": "WTI Conference — Embodied and Embedded Brains",
+    "start": "2025-06-10T10:00:00-04:00",
+    "end": "2025-06-10T16:30:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Conference\nEmbodied and Embedded Brains\n\nThe Wu Tsai Institute invites you to its annual conference on Tuesday, June 10, 2025, at 100 College Street.\n\nThis year’s theme, Embodied and Embedded Brains, challenges us to rethink cognition beyond the brain-in-a-vat metaphor. The conference will explore how brain function is shaped by the body, behavior, and environment, reconnecting neuroscience with its roots in real-world experience.\n\nLed by Kia Nobre, WTI Associate Director and Director of the Center for Neurocognition and Behavior, the agenda features cross-disciplinary perspectives from Wu Tsai Faculty Members, Fellows, and guest speakers. View the speaker details and event agenda below. Refreshments and lunch will be provided for registered attendees, and a reception will follow the day’s sessions.\n\nRegistration for the conference is now closed. Send questions to wti@yale.edu.\n\nConference Keynotes\n\nAsif Ghazanfar\n\nPrinceton University\n\nDaniela Schiller\n\nMount Sinai\n\nConference Agenda\n\n9:30 am | Breakfast\n\nContinental breakfast will begin at 9:30 am, and doors will open at 9:45 am.\n\n10:00 am | Opening remarks\n\nKia Nobre, WTI Associate Director and Director of the Center for Neurocognition and Behavior, will welcome attendees and open the conference.\n\n10:10 am | “Integrative biology of vocal learning” by Asif Ghazanfar\n\nHumans and marmoset monkeys are the rare vocal learners among primates. They are a biological puzzle. Focusing on marmosets, we will first show that vocal learning emerges in a landscape of anatomical changes, not just neural changes. By comparing the two species, we will then consider the possibility that their potential for vocal learning is the product of evolutionary changes to their developmental timing and social structure.\n\n11:00 am | Flash Talks\n\n11:00 am | “The continuously adapting brain: How body states regulate brain blood flow and neuronal signaling” by Doug Rothman\nThis talk proposes an alternative, non-brain-centric view of the regulation of neurovascular coupling, neuroenergetics, and neuronal signaling, in which all three continuously adapt to the state of the body (e.g., physical activity, posture, respiration, blood chemistry).\n\n11:20 am | “Agent-based modeling for Motor Control and Social Behavior” by Shreya Saxena\nWhen do we need embodied agents?\n\n11:40 am | “Building connections and ideas in the trainee community” by Ashlea Segal and Evyn Dickinson\nTo build connections across our diverse research community, this talk will highlight trainees’ shared burning questions, big ideas, and out-of-the-box thoughts that drive our collective curiosity about cognition and the mind.\n\n12:00 pm | Lunch\n\nLunch will be available in the lounge.\n\n12:40 pm | “The human affectome” by Daniela Schiller\n\nOver the last decades, the interdisciplinary field of the affective sciences has seen proliferation rather than integration of theoretical perspectives. This is due to differences in metaphysical and mechanistic assumptions about human affective phenomena (what they are […]\n\nhttps://wti.yale.edu/event/conference-2025",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-07/undergrad-poster-symposium": {
+    "url": "https://wti.yale.edu/event/2025-07/undergrad-poster-symposium",
+    "summary": "Undergraduate Poster Symposium",
+    "start": "2025-07-30T14:00:00-04:00",
+    "end": "2025-07-30T16:00:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "The Wu Tsai Institute presents the 2025 Undergraduate Summer Poster Symposium in collaboration with the Physical and Engineering Biology (PEB) Summer Undergraduate Research Program.\n\nJoin us on July 30 at 100 College Street, where the 2025 Wu Tsai Undergraduate Fellows, PEB undergrad researchers, and other summer students training with Wu Tsai Faculty Members will present posters from their summer research at Yale. This engaging event offers a wonderful opportunity to explore emerging research within the WTI community. We encourage students, trainees, faculty, and staff to attend and be inspired by the work of this summer's young scientists.\n\nThis event is open to the Yale Community. Please contact wti@yale.edu with questions.\n\nWu Tsai Undergraduate Fellow Projects\n\nVanessa Anaya (Joormann Lab)\n\nSavoring as a positive emotion regulation strategy in depression: an ecological momentary assessment\n\nSavoring is the mindful attention to and appreciation of positive experiences, serving as a key strategy in positive emotion regulation (PER). Past research has shown that difficulties with savoring are linked to symptoms of depression and anxiety. However, there is little known about the function of savoring in daily life and whether its benefits vary depending on the presence of psychopathology. The present study utilized a 21-day Ecological Momentary Assessment (EMA) to investigate the use of emotion regulation strategies in daily life as part of a larger study. Participants completed four daily surveys for 21 days, reporting on emotional context (e.g., situational positivity/negativity), momentary savoring use, affective outcomes, and symptoms of depression and anxiety. Multilevel modeling revealed that individuals with higher depression and anxiety engaged in less savoring overall, but among those with depressive symptoms, savoring was more strongly tied to momentary positive experiences. Importantly, savoring predicted more successful emotion regulation and less negative affect, although the benefits were weaker among individuals with elevated depression. The study’s findings suggest that while individuals with higher depressive symptoms may not frequently engage in savoring, it may be particularly beneficial for them when they do. This work supports strides towards targeted savoring-specific interventions that might be more beneficial for individuals with depression, therefore contributing to more effective clinical prevention and intervention efforts for people with depression.\n\nRory Ashmeade (Blumenfeld Lab)\n\nDisruption of oscillatory evoked potentials in the anterior insular cortex underlies loss of consciousness in rats with genetic absence seizures\n\nAbsence epilepsy is a form of generalized epilepsy characterized by 5-10 second episodes of brief staring spells and an inability to recall events that occurred during the seizure. Genetic Absence Epilepsy Rats of Strasbourg (GAERS) is an animal model with robust correspondence to human clinical […]\n\nhttps://wti.yale.edu/event/2025-07/undergrad-poster-symposium",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-09/inspiring-speaker-asya-rolls": {
+    "url": "https://wti.yale.edu/event/2025-09/inspiring-speaker-asya-rolls",
+    "summary": "Between brain and body: A neuroimmune take on the mind–body question",
+    "start": "2025-09-11T10:00:00-04:00",
+    "end": "2025-09-11T11:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Asya Rolls’ talk offers a physiological perspective on the mind–body question through the concept of immunoception, the brain's ability to represent and regulate immune states. She will present recent evidence showing how regions involved in interoception and motivation, such as the insular cortex and VTA, influence immune responses and contribute to shaping immune memory. These findings provide new insight into psychosomatic phenomena and the placebo effect, with potential implications for brain-based strategies to modulate immunity in medical contexts.\n\nRolls will be hosted by Elizabeth Goldfarb (Psychiatry, Psychology).\n\nAsya Rolls\n\nProfessor, Faculty of Life Sciences, Tel Aviv University\n\nRolls is a neuroimmunologist studying the physiological mechanisms underlying mind–body communication. Her research explores the neuroimmune basis of phenomena such as placebo effects and psychosomatic disorders, aiming to reveal how mental states can shape physical health.\n\nLEARN MORE: https://rollsasyalab.sites.tau.ac.il/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute's Inspiring Speaker Series features an interdisciplinary lineup of speakers whose work reshapes how we understand the mind and brain. Talks occur monthly on Thursdays at 10:00 am, from September 2025 to May 2026, at 100 College Street. Coffee and refreshments will be available before each talk, and there will be an opportunity for questions afterward. All members of the Yale community are welcome.\n\nIf you would like to meet with a visiting speaker, please contact wti@yale.edu.\n\nUpcoming Speakers\n\nhttps://wti.yale.edu/event/2025-09/inspiring-speaker-asya-rolls",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-09/special-seminar-marc-freeman": {
+    "url": "https://wti.yale.edu/event/2025-09/special-seminar-marc-freeman",
+    "summary": "Development + Plasticity · Special Seminar: Marc Freeman — Astrocytes in neural circuits: Listening, responding, and regulating",
+    "start": "2025-09-23T14:00:00-04:00",
+    "end": "2025-09-23T15:00:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Development + Plasticity\nSpecial Seminar: Marc Freeman\nAstrocytes in neural circuits: Listening, responding, and regulating\n\nWTI's Center for Neurodevelopment and Plasticity presents a special seminar with Marc Freeman, Director and Senior Scientist at the Vollum Institute at Oregon Health and Science University (OHSU).\n\nFreeman is a neuroscientist interested in the neural systems and dynamics involved in flexible and proactive control of adaptive behavior; or complex systems scientist interested in the structure, function, dynamics, and control of adaptive neural systems. His lab research goal is to understand how neurons and glia communicate during nervous system assembly, function, and maintenance, and how these processes go awry in disease.\n\nAll members of the Yale community are welcome. Send questions to wti@yale.edu.\n\nhttps://wti.yale.edu/event/2025-09/special-seminar-marc-freeman",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-10/disentangling-neural-mechanisms-encode-overlapping-experiences": {
+    "url": "https://wti.yale.edu/event/2025-10/disentangling-neural-mechanisms-encode-overlapping-experiences",
+    "summary": "Current Works in Human Neuroscience: Brice Kuhl — Disentangling the neural mechanisms that encode overlapping experiences",
+    "start": "2025-10-06T16:00:00-04:00",
+    "end": "2025-10-06T17:00:00-04:00",
+    "location": "100 College Street, Floor 1, Room 180A, New Haven, CT 06510",
+    "description": "Current Works in Human Neuroscience: Brice Kuhl\nDisentangling the neural mechanisms that encode overlapping experiences\n\nhttps://wti.yale.edu/event/2025-10/disentangling-neural-mechanisms-encode-overlapping-experiences",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-10/inspiring-speaker-tim-lillicrap": {
+    "url": "https://wti.yale.edu/event/2025-10/inspiring-speaker-tim-lillicrap",
+    "summary": "WTI Inspiring Speaker: Timothy Lillicrap — Learning to think by reinforcing useful thoughts",
+    "start": "2025-10-09T10:00:00-04:00",
+    "end": "2025-10-09T11:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Timothy Lillicrap\nLearning to think by reinforcing useful thoughts\n\nThe ability to spend time and compute to produce better answers is a hallmark of human cognition. But how can we teach machines to think? Timothy Lillicrap's talk will focus on how reinforcement learning algorithms can produce models that reason deeply about everything from games to math, and everything else we think about. Shreya Saxena will be the host for Lillicrap's visit.\n\nTimothy Lillicrap\n\nResearch Director, Google DeepMind\n\nLillicrap's research centers on machine learning and statistics for optimal control and decision-making, developing new algorithms and approaches to using deep networks in reinforcement learning, and novel network and memory architectures. More recently, his work focuses on developing reinforcement learning methods for teaching reasoning in large language models.\n\nLearn more: https://contrastiveconvergence.net/~timothylillicrap/index.php\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute's Inspiring Speaker Series features an interdisciplinary lineup of speakers whose work reshapes how we understand the mind and brain. Talks occur monthly on Thursdays at 10:00 am, from September 2025 to May 2026, at 100 College Street. Coffee and refreshments will be available before each talk, and there will be an opportunity for questions afterward. All members of the Yale community are welcome.\n\nIf you would like to meet with a visiting speaker, please contact wti@yale.edu.\n\nUpcoming Speakers\n\nhttps://wti.yale.edu/event/2025-10/inspiring-speaker-tim-lillicrap",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-10/brains-minds-machines-open-house": {
+    "url": "https://wti.yale.edu/event/2025-10/brains-minds-machines-open-house",
+    "summary": "Brains, Minds, and Machines Open House",
+    "start": "2025-10-22T16:00:00-04:00",
+    "end": "2025-10-22T18:00:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Join the Wu Tsai Institute for an Open House to learn about the Graduate Certificate in Brains, Minds, and Machines, a new opportunity for PhD students to engage in cross-disciplinary training that bridges biological, psychological, and computational approaches, to develop an integrated foundation for studying cognition.\n\nOn October 22 at 100 College Street, meet Wu Tsai Faculty Members, explore the Institute's Shared Research Facilities, and discover how the certificate can enhance your graduate training. The event concludes with a reception to connect with faculty, current fellows, and peers, along with an opportunity to visit the Institute’s Shared Research Facilities.\n\nView the Open House agenda below, and contact wti@yale.edu with questions.\n\nYale PhD students in their first year, from any department, can apply for the Graduate Certificate in Brains, Minds, and Machines, which would begin in their second year and includes interdisciplinary coursework, experiential learning, and professional development.\n\nOpen House Agenda\n\n4:00 pm | Welcome\n\nWu Tsai Faculty Member and director of the Brains, Minds, and Machines Graduate Certificate, Sam McDougle, will give opening remarks.\n\n4:05 pm | Flash talk from Cristina Rodríguez\n\nInto the deep: Next-generation optical microscopy for deep tissue imaging of the nervous system\n\n4:15 pm | Flash talk from Dan Levenstein\n\nA NeuroAI approach to studying offline learning in the sleeping brain\n\n4:25 pm | Flash talk from Tyler Brooke-Wilson\n\nScaling up computational cognitive science\n\n4:35 pm | Certificate overview\n\nWTI will share details and answer questions about the Graduate Certificate in Brains, Minds, and Machines.\n\n4:50 pm | Reception\n\nRefreshments will be available in the WTI lounge. Additionally, during the reception at 5:10 and 5:40 pm each Wu Tsai Shared Research Facility will run demos so you can explore the resources the Institute has to offer.\n\nBrainWorks (Floor 1) Non-invasive human brain imaging\n\nThe Plexus (Floor 10) Innovative microscopy\n\nThe Matrix (Floor 11) Data visualization and high-performance computing\n\nhttps://wti.yale.edu/event/2025-10/brains-minds-machines-open-house",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-10/panel-discussion-ehrlich-mazzarell-zimmer": {
+    "url": "https://wti.yale.edu/event/2025-10/panel-discussion-ehrlich-mazzarell-zimmer",
+    "summary": "Mind/Matter: The Panel",
+    "start": "2025-10-27T17:00:00-04:00",
+    "end": "2025-10-27T18:30:00-04:00",
+    "location": "Yale Peabody Museum, Floor 1, Central Gallery",
+    "description": "In conjunction with the closing of Yale Peabody Museum's acclaimed exhibition Mind/Matter: The Neuroscience of Perception, Attention, and Memory, the Wu Tsai Institute's Center for Neurodevelopment and Plasticity invites you to a special event exploring one of the most pivotal and poignant rivalries in the history of brain science.\n\nOn October 27, join us for a panel discussion with the world's leading biographers of Camillo Golgi and Santiago Ramón y Cajal, moderated by renowned science writer Carl Zimmer. Panelists include:\n\n• Paolo Mazzarello, neurologist and historian of medicine, author of The Hidden Structure, the definitive biography of Golgi\n\n• Benjamin Ehrlich, literary science writer and author of The Brain in Search of Itself, the celebrated biography of Santiago Cajal\n\nThis rare opportunity will explore how two rival visions—Golgi’s reticular theory and Cajal’s neuron doctrine—shaped our understanding of the brain, offering insights into the artistic, political, and scientific stakes that still resonate today.\n\nThe panel will take place in the Peabody's Central Gallery beginning at 5:00 pm. Admission is free and open to the public, but registration is required. Following the panel, guests are invited to view the Mind/Matter exhibition until 7:15 pm.\n\nRegister for the event: https://www.eventbrite.com/e/mindmatter-the-panel-tickets-1762416909419?aff=oddtdtcreator, and send questions to wti@yale.edu.\n\nhttps://wti.yale.edu/event/2025-10/panel-discussion-ehrlich-mazzarell-zimmer",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-11/wti-workshop-efficient-use-cluster-misha": {
+    "url": "https://wti.yale.edu/event/2025-11/wti-workshop-efficient-use-cluster-misha",
+    "summary": "WTI Workshop: Efficient Use of Cluster Misha",
+    "start": "2025-11-06T10:00:00-05:00",
+    "end": "2025-11-06T12:00:00-05:00",
+    "location": "100 College Street, Floor 11, Room 1167, New Haven, CT 06510",
+    "description": "https://wti.yale.edu/event/2025-11/wti-workshop-efficient-use-cluster-misha",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-11/spaces-serena-scapagnini": {
+    "url": "https://wti.yale.edu/event/2025-11/spaces-serena-scapagnini",
+    "summary": "WTI Artist-in-Residence: Serena Scapagnini — Spaces: An exploration of art and memory",
+    "start": "2025-11-12T15:30:00-05:00",
+    "end": "2025-11-12T17:00:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Artist-in-Residence: Serena Scapagnini\nSpaces: An exploration of art and memory\n\nThe Wu Tsai Institute presents the 2025-26 Artist-in-Residence, Serena Scapagnini.\n\nJoin us at 100 College Street on November 12 for the premiere event. The engagement will feature a showing of the recent documentary Serena Scapagnini – The Space Beyond (Lo Spazio Oltre) Italy, United States, 2025, 21’, Italian, English. The film will be followed by a curated discussion with Serena, highlighting her approach to artistic creation in collaboration with the scientific community.\n\nScapagnini will discuss her research and visions for the beginning of the residency program at the Institute, drawing from past and current collaborations with neuroscientists at the Higley Lab and quantum researchers at the Yale Quantum Institute. She will reflect on how scientific interactions enrich her art, taking shape through drawings, paintings, spatial installations, and videos. A site-specific installation of Scapagnini’s work will be on display, and the audience will have ample opportunity to engage directly with the artist.\n\nScapagnini is hosted by Wu Tsai Faculty Member Mike Higley.\n\nLearn more about WTI’s Artist-in-Residence below and we hope to see you on November 12 for an engaging discussion. Light refreshments will be available. No RSVP is necessary. Please send questions to wti@yale.edu.\n\nAbout the artist\n\nSerena Scapagnini was born in Rome and graduated from La Sapienza University, Rome with a dissertation in Art Theory, Semiotics and History of Religion (2006). She received her Masters degree in Middle Age Art History, Iconography and Iconology at the University of Siena (2020). Her art education began in Paris (Universitée de Vincennes, Paris VIII, 2005) and continued in New York, where she completed a Master Program in Painting and Mixed Media at the School of Visual Arts (2007).\n\nScapagnini combines physical and spiritual elements, driven by wonder for the natural rhythm of perception and memory. Her works layer paintings and drawings on paper, combined with multidimensional video and light installations to explore the intricacies of memory—from the human brain to synapses to quantum computing. Integrating artistic and scientific perspectives with the experiences of the observer, Serena Scapagnini aims to reflect a multidisciplinary and multidimensional exploration of vision, perception, memory, and human condition. Her work has been shown and collected internationally in the United States, China, India, Sweden, Hungary, Spain and Italy.\n\nHer recent research focuses on a project dedicated to mind and memory, developed since 2012 in collaboration with Mike Higley, Faculty Member in the Wu Tsai Institute and in the Department of Neuroscience, Yale University. In 2021, she became a Young Fellow of the World Academy of Arts and Science. She has been the Artist-in-Residence at the Yale Quantum Institute (2024-25).\n\nArt by Serena Scapagnini\n\nView Gallery\n\nDevotion. Detail; Oil on Paper on Plexiglas. 139 x 87 cm.\n\nSerena Scapagnini\n\nClose\n\nDevotion. Detail; […]\n\nhttps://wti.yale.edu/event/2025-11/spaces-serena-scapagnini",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-11/inspiring-speaker-kang-shen": {
+    "url": "https://wti.yale.edu/event/2025-11/inspiring-speaker-kang-shen",
+    "summary": "Understanding neuronal cell biology: From development to diseases",
+    "start": "2025-11-13T10:00:00-05:00",
+    "end": "2025-11-13T11:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Neurons are large, complex cells with an extraordinarily long lifespan and require specialized mechanisms to accommodate their unique needs for morphogenesis, intracellular trafficking, and long-term homeostasis. The scarcity of knowledge in neuronal cell biology leads to major gaps in linking genetic variations to behavioral deficits in neurodevelopmental and neurodegenerative disorders.\n\nThe Shen Lab has established an in vivo system focusing on a systematic, mechanistic understanding of specialized neuronal cell biology using this highly polarized, highly arborized C. elegans neuron. Kang Shen will present recent and largely unpublished results on several topics in neuronal cell biology, including microtubule organization, neuronal stress response, and Tau toxicity. Shen will be hosted by Shaul Yogev.\n\nKang Shen\n\nProfessor of Biology; Director, Wu Tsai Neurosciences Institute, Stanford University\n\nShen is a neuronal cell biologist interested in development and maintenance of the nervous system.\n\nLearn more: https://shenlab.stanford.edu/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute's Inspiring Speaker Series features an interdisciplinary lineup of speakers whose work reshapes how we understand the mind and brain. Talks occur monthly on Thursdays at 10:00 am, from September 2025 to May 2026, at 100 College Street. Coffee and refreshments will be available before each talk, and there will be an opportunity for questions afterward. All members of the Yale community are welcome.\n\nIf you would like to meet with a visiting speaker, please contact wti@yale.edu.\n\nUpcoming Speakers\n\nhttps://wti.yale.edu/event/2025-11/inspiring-speaker-kang-shen",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/sfn-2025-social": {
+    "url": "https://wti.yale.edu/event/sfn-2025-social",
+    "summary": "Wu Tsai SfN 2025 Social",
+    "start": "2025-11-16T17:00:00-05:00",
+    "end": "2025-11-16T19:00:00-05:00",
+    "location": "Bay City Brewing Company, 627 Eighth Avenue, San Diego, CA 92101",
+    "description": "The Wu Tsai Institute invites you to our second annual \"meeting of the minds\" on November 16 during the Society for Neuroscience 2025 annual conference. Enjoy an evening of local brews, delicious food, and friendly conversation on the rooftop of Bay City Brewing Company in San Diego. RSVP to let us know you are coming, and we look forward to seeing you at SfN!\n\nThe Wu Tsai SfN 2025 Social is co-sponsored by Yale's Wu Tsai Institute, Yale's Interdepartmental Neuroscience Program, and Stanford's Wu Tsai Neurosciences Institute. Send questions to wti@yale.edu.\n\nhttps://wti.yale.edu/event/sfn-2025-social",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-12/positron-emission-tomography-yale-synaptic-imaging-humans-and-much-much-more": {
+    "url": "https://wti.yale.edu/event/2025-12/positron-emission-tomography-yale-synaptic-imaging-humans-and-much-much-more",
+    "summary": "Current Works in Human Neuroscience: Richard Carson — Positron emission tomography at Yale: Synaptic imaging in humans and much, much more",
+    "start": "2025-12-08T16:00:00-05:00",
+    "end": "2025-12-08T17:00:00-05:00",
+    "location": "100 College Street, Floor 1, Room 180A, New Haven, CT 06510",
+    "description": "Current Works in Human Neuroscience: Richard Carson\nPositron emission tomography at Yale: Synaptic imaging in humans and much, much more\n\nhttps://wti.yale.edu/event/2025-12/positron-emission-tomography-yale-synaptic-imaging-humans-and-much-much-more",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-12/inspiring-speaker-alison-gopnik": {
+    "url": "https://wti.yale.edu/event/2025-12/inspiring-speaker-alison-gopnik",
+    "summary": "WTI Inspiring Speaker: Alison Gopnik — Three ages and three intelligences: Exploit, explore, empower",
+    "start": "2025-12-11T10:00:00-05:00",
+    "end": "2025-12-11T11:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Alison Gopnik\nThree ages and three intelligences: Exploit, explore, empower\n\nIn this talk, Alison Gopnik argues that there is no such thing as general intelligence. Instead different types of intelligences trade-off against each other and are characteristic of different developmental periods. Adults characteristically engage in exploitation, while children are adapted for exploration and elders for care and cultural transmission. Gopnik will be hosted by Julia Leonard.\n\nAlison Gopnik\n\nDistinguished Professor of Psychology, University of California, Berkeley\n\nGopnik is a cognitive scientist studying learning and development in children and AI systems.\n\nLearn more: https://alisongopnik.com/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute's Inspiring Speaker Series features an interdisciplinary lineup of speakers whose work reshapes how we understand the mind and brain. Talks occur monthly on Thursdays at 10:00 am, from September 2025 to May 2026, at 100 College Street. Coffee and refreshments will be available before each talk, and there will be an opportunity for questions afterward. All members of the Yale community are welcome.\n\nIf you would like to meet with a visiting speaker, please contact wti@yale.edu.\n\nUpcoming Speakers\n\nhttps://wti.yale.edu/event/2025-12/inspiring-speaker-alison-gopnik",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-12/yale-hippocampus-symposium-exploring-memory-across-scales": {
+    "url": "https://wti.yale.edu/event/2025-12/yale-hippocampus-symposium-exploring-memory-across-scales",
+    "summary": "Yale Hippocampus Symposium: Exploring Memory Across Scales",
+    "start": "2025-12-12T09:30:00-05:00",
+    "end": "2025-12-12T17:30:00-05:00",
+    "location": "100 College Street, Floor 11, Room 1167, New Haven, CT 06510",
+    "description": "The Yale Hippocampus Symposium brings together leading researchers to discuss the latest discoveries in hippocampal circuits, memory, and cognition. Researchers from Yale and the broader academic community are welcome to attend this day-long symposium at 100 College Street on December 12. Invited external guests will speak along with four selected senior postdocs from Yale.\n\nQuestions? Contact Tristan Geiller, Wu Tsai Investigator and Assistant Professor of Neuroscience.\n\nhttps://wti.yale.edu/event/2025-12/yale-hippocampus-symposium-exploring-memory-across-scales",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2025-12/using-whole-body-cellular-activity-imaging-uncover-principles-brain-body-coordination": {
+    "url": "https://wti.yale.edu/event/2025-12/using-whole-body-cellular-activity-imaging-uncover-principles-brain-body-coordination",
+    "summary": "Special Seminar: Virginie Ruetten — Using Whole-Body Cellular Activity Imaging to Uncover Principles of Brain-Body Coordination",
+    "start": "2025-12-17T15:00:00-05:00",
+    "end": "2025-12-17T16:00:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Special Seminar: Virginie Ruetten\nUsing Whole-Body Cellular Activity Imaging to Uncover Principles of Brain-Body Coordination\n\nhttps://wti.yale.edu/event/2025-12/using-whole-body-cellular-activity-imaging-uncover-principles-brain-body-coordination",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-01/inspiring-speaker-marsel-mesulam": {
+    "url": "https://wti.yale.edu/event/2026-01/inspiring-speaker-marsel-mesulam",
+    "summary": "WTI Inspiring Speaker: M. Marsel Mesulam — Frontotemporal disorders and cognition",
+    "start": "2026-01-08T10:00:00-05:00",
+    "end": "2026-01-08T11:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: M. Marsel Mesulam\nFrontotemporal disorders and cognition\n\nIn this talk, Marsel Mesulam will discuss how focal neurodegenerations offer new tools for probing the functional map of cognition and behavior—examining how these disorders have led to new insights into the anatomy of language and the specializations of the anterior temporal lobe. Mesulam will be hosted by Kia Nobre.\n\nM. Marsel Mesulam\n\nFounding Director Emeritus, Mesulam Institute for Cognitive Neurology and Alzheimer’s Disease; Professor of Neurology and Ruth Dunbar Davee Professor of Neuroscience, Northwestern University\n\nThe focus of Mesulam’s work includes neural networks, functional imaging, dementia, cerebral cortex, cholinergic pathways, Alzheimer’s disease, and aging.\n\nLearn more: https://www.brain.northwestern.edu/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute's Inspiring Speaker Series features an interdisciplinary lineup of speakers whose work reshapes how we understand the mind and brain. Talks occur monthly on Thursdays at 10:00 am, from September 2025 to May 2026, at 100 College Street. Coffee and refreshments will be available before each talk, and there will be an opportunity for questions afterward. All members of the Yale community are welcome.\n\nIf you would like to meet with a visiting speaker, please contact wti@yale.edu.\n\nUpcoming Speakers\n\nhttps://wti.yale.edu/event/2026-01/inspiring-speaker-marsel-mesulam",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-01/how-arousal-shapes-memory-formation-across-sleep-and-wake": {
+    "url": "https://wti.yale.edu/event/2026-01/how-arousal-shapes-memory-formation-across-sleep-and-wake",
+    "summary": "Current Works in Human Neuroscience: Brett Foster — How arousal shapes memory formation across sleep and wake",
+    "start": "2026-01-12T16:00:00-05:00",
+    "end": "2026-01-12T17:15:00-05:00",
+    "location": "100 College Street, Floor 1, Room 180A, New Haven, CT 06510",
+    "description": "Current Works in Human Neuroscience: Brett Foster\nHow arousal shapes memory formation across sleep and wake\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2026. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2026-01/how-arousal-shapes-memory-formation-across-sleep-and-wake",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-01/postdoc-symposium": {
+    "url": "https://wti.yale.edu/event/2026-01/postdoc-symposium",
+    "summary": "WTI Postdoctoral Symposium",
+    "start": "2026-01-29T09:15:00-05:00",
+    "end": "2026-01-29T12:30:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Aspiring Wu Tsai Postdoctoral Fellows share their outstanding research spanning experimental, computational, and theoretical approaches to cognition. Join us on January 29 at 100 College to hear from these early career scientists and explore potential collaborations. All Yale community members are welcome.\n\nSpeakers + Agenda\n\nIf you are a Wu Tsai Faculty Member and would like to meet one-on-one with any of these speakers, please contact WTI's program manager, Liz Knapp.\n\n8:45 am | Breakfast\n\nArrive early for breakfast and coffee beginning at 8:45 am in the Floor 11 lounge.\n\n9:15 am | Opening remarks\n\nAttendee welcome and speaker introductions\n\n9:25 am | Clara Sava-Segal\n\nPhD candidate, lab of Emily Finn, Dartmouth College\n\n“Cognitive and neural mechanisms driving differences in the encoding of complex experiences”\n\n10:00 am | Arun Cherkkil\n\nPhD candidate, lab of Suhasa Kodandaramaiah, University of Minnesota\n\n“CortexCAM: A novel neurotechnology for cortex-wide mapping of spatial cognition”\n\n10:35 am | Tianhe Wang\n\nPhD candidate, lab of Richard Ivry, University of California, Berkeley\n\n“Statistical regulators in motor learning and motor control”\n\n11:10 am | Coffee break\n\nRefreshments will be available in the lounge.\n\n11:20 am | Vincent Thibeault\n\nPhD candidate, labs of Patrick Desrosiers and Antoine Allard, Université Laval\n\n“Resilience: From complexity to low-dimensional spaces”\n\n11:55 am | Ziyu Lu\n\nPhD candidate, labs of Eric Shea-Brown and J. Nathan Kutz, University of Washington\n\n“Modeling, predicting, and steering neural dynamics”\n\nhttps://wti.yale.edu/event/2026-01/postdoc-symposium",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-02/cognitive-and-neural-mechanisms-underlying-subjective-interpretation-complex": {
+    "url": "https://wti.yale.edu/event/2026-02/cognitive-and-neural-mechanisms-underlying-subjective-interpretation-complex",
+    "summary": "Current Works in Human Neuroscience: Clara Sava-Segal — Cognitive and neural mechanisms underlying the subjective interpretation of complex experiences",
+    "start": "2026-02-09T16:00:00-05:00",
+    "end": "2026-02-09T17:15:00-05:00",
+    "location": "100 College Street, Floor 1, Room 180A, New Haven, CT 06510",
+    "description": "Current Works in Human Neuroscience: Clara Sava-Segal\nCognitive and neural mechanisms underlying the subjective interpretation of complex experiences\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2026. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2026-02/cognitive-and-neural-mechanisms-underlying-subjective-interpretation-complex",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-02/inspiring-speaker-denise-cai": {
+    "url": "https://wti.yale.edu/event/2026-02/inspiring-speaker-denise-cai",
+    "summary": "WTI Inspiring Speaker: Denise Cai — Dynamic neural ensembles support memory stability and flexibility across the lifetime",
+    "start": "2026-02-12T10:00:00-05:00",
+    "end": "2026-02-12T11:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Denise Cai\nDynamic neural ensembles support memory stability and flexibility across the lifetime\n\nCreating stable memories is critical for survival. An animal relies on past learning to navigate its environment, avoid dangerous situations, and find needed resources. Because the environment is dynamic, stable memories must be updated with new information to enable responses to changing threats (a specific danger) and rewards (such as food and water). The brain circuits involved in memory and learning require both stability and flexibility.\n\nUsing in vivo calcium imaging and chemogenetics, Denise Cai discovered that traumatic experiences can alter past memories and have long-lasting changes to how future memories are encoded. This talk will explore the implications for how the brain stably stores and flexibly updates memories across the lifetime. Cai will be hosted by Jessica Cardin (Neuroscience).\n\nDenise Cai\n\nAssociate Professor of Neuroscience; Co-Director, Computational and Systems Neuroscience Center, Mount Sinai\n\nCai is a neuroscientist investigating how dynamic neural ensembles—and their cellular and molecular properties—support the “tug of war” between memory stability and flexibility across the lifetime.\n\nLearn more: https://www.denisecailab.com/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute's Inspiring Speaker Series features an interdisciplinary lineup of speakers whose work reshapes how we understand the mind and brain. Talks occur monthly on Thursdays at 10:00 am, from September 2025 to May 2026, at 100 College Street. Coffee and refreshments will be available before each talk, and there will be an opportunity for questions afterward. All members of the Yale community are welcome.\n\nIf you would like to meet with a visiting speaker, please contact wti@yale.edu.\n\nUpcoming Speakers\n\nhttps://wti.yale.edu/event/2026-02/inspiring-speaker-denise-cai",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-03/symposium": {
+    "url": "https://wti.yale.edu/event/2026-03/symposium",
+    "summary": "WTI Symposium — Computation and Cognition",
+    "start": "2026-03-02T09:00:00-05:00",
+    "end": "2026-03-02T12:35:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Symposium\nComputation and Cognition\n\nThe Wu Tsai Institute presents a symposium featuring neurocomputation experts at 100 College Street on Monday, March 2, 2026. All members of the Yale community are invited to attend a morning of groundbreaking science hosted by John Lafferty, Director of WTI’s Center for Neurocomputation and Machine Intelligence.\n\nView speakers and agenda below. Send questions to wti@yale.edu.\n\nSpeakers + Agenda\n\n9:00 am | Opening remarks\n\nJohn Lafferty will welcome attendees and open the symposium.\n\n9:05 am | Jacob Zavatone-Veth\n\nJunior Fellow, Harvard Society of Fellows, Harvard University\n\n“Identifiability and universality in neural computation”\n\n9:55 am | Kazuki Irie\n\nPostdoctoral Fellow, Harvard University\n\n“Memory-centric deep learning: Advancing machine intelligence and informing cognitive neuroscience”\n\n10:45 am | Break\n\nRefreshments will be available in the Lounge.\n\n10:55 am | William Gilpin\n\nAssistant Professor, University of Texas at Austin\n\n\"Geometry guides generalization in zero-shot learning of dynamical systems\"\n\n11:45 am | E. Paxon Frady\n\nNeuromorphic Algorithms Research Lead, Intel\n\n“The critical role of factorization in perception and understanding”\n\n12:35 pm | Close\n\nThe symposium concludes.\n\nhttps://wti.yale.edu/event/2026-03/symposium",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-03/multivariate-brain-state-directing-minds-eye-inward": {
+    "url": "https://wti.yale.edu/event/2026-03/multivariate-brain-state-directing-minds-eye-inward",
+    "summary": "Current Works in Human Neuroscience: Nicole Long — A multivariate brain state for directing the mind's eye inward",
+    "start": "2026-03-02T16:00:00-05:00",
+    "end": "2026-03-02T17:15:00-05:00",
+    "location": "100 College Street, Floor 1, Room 180A, New Haven, CT 06510",
+    "description": "Current Works in Human Neuroscience: Nicole Long\nA multivariate brain state for directing the mind's eye inward\n\nRemembering what one had for breakfast the previous day depends in part on engaging a retrieval brain state—a whole-brain activity pattern thought to be specific to episodic remembering, including what occurred, when, and where. Using multivariate machine learning analyses of neural activity patterns, Nicole Long will present evidence supporting an alternative hypothesis: that the retrieval state instead tracks internal attention demands. Engagement of this proposed internal attention state may therefore account for behavior across cognitive processes beyond episodic memory.\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2026. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2026-03/multivariate-brain-state-directing-minds-eye-inward",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-03/inspiring-speaker-melanie-mitchell": {
+    "url": "https://wti.yale.edu/event/2026-03/inspiring-speaker-melanie-mitchell",
+    "summary": "WTI Inspiring Speaker: Melanie Mitchell — Investigating abstract reasoning in humans and machines",
+    "start": "2026-03-05T10:00:00-05:00",
+    "end": "2026-03-05T11:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Melanie Mitchell\nInvestigating abstract reasoning in humans and machines\n\nState-of-the-art AI models have matched or exceeded human performance on reasoning benchmarks such as the Abstraction and Reasoning Corpus, a prominent benchmark for conceptual understanding and analogy. But does high accuracy on this benchmark mean that these models understand and reason with the humanlike abstractions intended by the task creators? In this talk, Melanie Mitchell will describe an evaluation methodology, inspired by experimental methods in cognitive science, to assess and compare the abstraction abilities of AI “reasoning” models and human participants.\n\nMitchell’s evaluations show that, while some models match or exceed human accuracy, their reasoning is frequently based on surface-level patterns or spurious associations, and thus lacks generalizability. She will speculate on what remains to be done to capture human-like abstract reasoning in AI models. Mitchell will be hosted by Chris Lynn.\n\nMelanie Mitchell\n\nProfessor, Santa Fe Institute\n\nMitchell is a computer scientist working at the boundary of AI and cognitive science, with particular interests in abstraction and analogy.\n\nLearn more: https://melaniemitchell.me\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute's Inspiring Speaker Series features an interdisciplinary lineup of speakers whose work reshapes how we understand the mind and brain. Talks occur monthly on Thursdays at 10:00 am, from September 2025 to May 2026, at 100 College Street. Coffee and refreshments will be available before each talk, and there will be an opportunity for questions afterward. All members of the Yale community are welcome.\n\nIf you would like to meet with a visiting speaker, please contact wti@yale.edu.\n\nUpcoming Speakers\n\nhttps://wti.yale.edu/event/2026-03/inspiring-speaker-melanie-mitchell",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-03/meet-the-transmitter": {
+    "url": "https://wti.yale.edu/event/2026-03/meet-the-transmitter",
+    "summary": "Meet The Transmitter",
+    "start": "2026-03-09T11:45:00-04:00",
+    "end": "2026-03-09T13:00:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "The Wu Tsai Institute invites you to join us for a presentation from The Transmitter, a neuroscience news publication that is dedicated to helping scientists at all career stages stay current and build connections.\n\nAfter the presentation, meet editor, Francisco Rivera Rosario, and community builder, Paige Miranda, to learn more about opportunities and online resources available. Rosaria and Miranda will also discuss their unique career paths and how they navigated leaving academia to enter the world of science journalism.\n\nThis event is open to the Yale Community. Lunch will be provided for those who register. Send questions to wti@yale.edu.\n\nhttps://wti.yale.edu/event/2026-03/meet-the-transmitter",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-04/inspiring-speaker-vivek-jayaraman": {
+    "url": "https://wti.yale.edu/event/2026-04/inspiring-speaker-vivek-jayaraman",
+    "summary": "WTI Inspiring Speaker: Vivek Jayaraman — Circuits for fast learning in navigation",
+    "start": "2026-04-09T10:00:00-04:00",
+    "end": "2026-04-09T11:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Vivek Jayaraman\nCircuits for fast learning in navigation\n\nIn an era of impressive machine learning, it is easy to forget that some animals can learn from just a handful of examples using data centers no larger than a poppy seed. In this talk, Vivek will draw on behavioral, physiological, and connectomic studies in the fly to highlight how cell-type-specific circuit structure, together with localized plasticity, enables the rapid generation and updating of internal representations for adaptive navigation. He will also make the case that many of these circuit-level insights into neural dynamics and the building blocks of cognition are likely to extend to vertebrate brains as well.\n\nVivek Jayaraman\n\nHead of Mechanistic Cognitive Neuroscience and Senior Group Leader, Janelia Research Campus, HHMI\n\nJayaraman is an engineer-turned-neuroscientist interested in understanding the circuit, cellular, and synaptic basis of neural computations underlying cognitive behavior.\n\nLearn more: https://www.janelia.org/lab/jayaraman-lab\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute's Inspiring Speaker Series features an interdisciplinary lineup of speakers whose work reshapes how we understand the mind and brain. Talks occur monthly on Thursdays at 10:00 am, from September 2025 to May 2026, at 100 College Street. Coffee and refreshments will be available before each talk, and there will be an opportunity for questions afterward. All members of the Yale community are welcome.\n\nIf you would like to meet with a visiting speaker, please contact wti@yale.edu.\n\nUpcoming Speakers\n\nhttps://wti.yale.edu/event/2026-04/inspiring-speaker-vivek-jayaraman",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-04/naturalistic-visual-search": {
+    "url": "https://wti.yale.edu/event/2026-04/naturalistic-visual-search",
+    "summary": "Current Works in Human Neuroscience: Joy Geng — Naturalistic visual search",
+    "start": "2026-04-13T16:00:00-04:00",
+    "end": "2026-04-13T17:15:00-04:00",
+    "location": "100 College Street, Floor 1, Room 180A, New Haven, CT 06510",
+    "description": "Current Works in Human Neuroscience: Joy Geng\nNaturalistic visual search\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2026. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2026-04/naturalistic-visual-search",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-04/choi-memorial-postdoc-lecture": {
+    "url": "https://wti.yale.edu/event/2026-04/choi-memorial-postdoc-lecture",
+    "summary": "Sheri D. Choi Memorial Postdoctoral Lecture: Halie Olson — Language in the Developing Brain",
+    "start": "2026-04-23T10:00:00-04:00",
+    "end": "2026-04-23T11:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Sheri D. Choi Memorial Postdoctoral Lecture: Halie Olson\nLanguage in the Developing Brain\n\nThe inaugural Sheri D. Choi Memorial Postdoctoral Lecture will feature developmental cognitive neuroscientist Halie Olson, from the Massachusetts Institute of Technology’s McGovern Institute for Brain Research. Olson studies the neural basis of language and communication, with an emphasis on characterizing and understanding typical and atypical language development using a combination of neural, behavioral, and computational approaches.\n\nCoffee and refreshments will be available before the talk, followed by time for audience questions and discussion. All members of the Yale community are welcome. If you are interested in scheduling time to meet with the speaker, please contact liz.knapp@yale.edu.\n\nThe Sheri D. Choi Memorial Postdoctoral Lecture is presented in honor of Sheri D. Choi, a postdoctoral fellow in the Department of Psychology at Yale University who studied infant memory and cognition. Choi was a formative member of the Wu Tsai Institute and Psychology Department communities and a staunch advocate of opportunities for postdocs.\n\nThe lectureship recognizes an outstanding early-career scientist, nominated by trainees from the WTI community, through a lectureship and a visit to Yale. The program highlights innovative developmental science while celebrating the perspective of an exceptional postdoc.\n\nhttps://wti.yale.edu/event/2026-04/choi-memorial-postdoc-lecture",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-05/neural-algorithms-human-language": {
+    "url": "https://wti.yale.edu/event/2026-05/neural-algorithms-human-language",
+    "summary": "Current Works in Human Neuroscience: Laura Gwilliams — Neural algorithms of human language",
+    "start": "2026-05-04T16:00:00-04:00",
+    "end": "2026-05-04T17:15:00-04:00",
+    "location": "100 College Street, Floor 1, Room 180A, New Haven, CT 06510",
+    "description": "Current Works in Human Neuroscience: Laura Gwilliams\nNeural algorithms of human language\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2026. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2026-05/neural-algorithms-human-language",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-05/seminar-stephan-saalfeld": {
+    "url": "https://wti.yale.edu/event/2026-05/seminar-stephan-saalfeld",
+    "summary": "WTI Special Seminar: Stephan Saalfeld — Learning interpretable models of complex dynamical systems with graph neural networks",
+    "start": "2026-05-12T10:00:00-04:00",
+    "end": "2026-05-12T11:15:00-04:00",
+    "location": "100 College Street, Floor 11 Workshop, New Haven, CT 06510",
+    "description": "WTI Special Seminar: Stephan Saalfeld\nLearning interpretable models of complex dynamical systems with graph neural networks\n\nThe Wu Tsai Institute’s Center for Neurodevelopment and Plasticity and the Center for Neurocomputation and Machine Intelligence present Stephan Saalfeld, Senior Group Leader and Head of Computation and Theory, HHMI Janelia Research Campus.\n\nSaalfeld is a computational neuroscientist interested in deconstructing and emulating circuit motifs from brain connectomes. His research focuses on reconstructing high-resolution biological nervous systems, such as the Drosophila (fruit fly) brain, to map neural connections. He holds leadership roles at HHMI Janelia, an institute primarily dedicated to understanding how neural circuits process information and store memories. Saalfeld is a co-leader of the AI@HHMI initiative with Erin O’Shea and Nelson Spruston. He will be hosted by Daniel Colón-Ramos and John Lafferty.\n\nhttps://wti.yale.edu/event/2026-05/seminar-stephan-saalfeld",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-05/inspiring-speaker-rich-zemel": {
+    "url": "https://wti.yale.edu/event/2026-05/inspiring-speaker-rich-zemel",
+    "summary": "WTI Inspiring Speaker: Richard Zemel — Efficiency and control in continual learning",
+    "start": "2026-05-14T10:00:00-04:00",
+    "end": "2026-05-14T11:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Inspiring Speaker: Richard Zemel\nEfficiency and control in continual learning\n\nContinual learning aims to bridge the gap between typical human and machine-learning environments. The continual setting does not have separate training and testing phases; instead, models are evaluated online as they learn novel concepts and tasks. The most capable current AI systems struggle to learn new knowledge sequentially without forgetting old knowledge. In this talk, Richard Zemel will describe recent progress as well as open issues and challenges in this area. Zemel will be hosted by John Lafferty.\n\nRichard Zemel\n\nTrianthe Dakolias Professor of Engineering and Applied Science, Professor of Computer Science; Director, NSF AI Institute for Artificial and Natural Intelligence (ARNI), Columbia University\n\nZemel is a computer scientist interested in representation learning, continual learning and robustness.\n\nLearn more: https://www.cs.columbia.edu/~zemel/\n\nWTI Inspiring Speaker Series\n\nThe Wu Tsai Institute's Inspiring Speaker Series features an interdisciplinary lineup of speakers whose work reshapes how we understand the mind and brain. Talks occur monthly on Thursdays at 10:00 am, from September 2025 to May 2026, at 100 College Street. Coffee and refreshments will be available before each talk, and there will be an opportunity for questions afterward. All members of the Yale community are welcome.\n\nIf you would like to meet with a visiting speaker, please contact wti@yale.edu.\n\nUpcoming Speakers\n\nhttps://wti.yale.edu/event/2026-05/inspiring-speaker-rich-zemel",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-05/foundation-models-brain-open-lab-meeting": {
+    "url": "https://wti.yale.edu/event/2026-05/foundation-models-brain-open-lab-meeting",
+    "summary": "WTI Grand Challenge 1 — Foundation Models of the Brain Open Lab Meeting",
+    "start": "2026-05-15",
+    "end": "2026-05-16",
+    "location": "100 College Street, New Haven, CT 06510",
+    "description": "WTI Grand Challenge 1\nFoundation Models of the Brain Open Lab Meeting\n\nSave the date, more details will be provided soon.\n\nhttps://wti.yale.edu/event/2026-05/foundation-models-brain-open-lab-meeting",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-05/seminar-misha-ahrens": {
+    "url": "https://wti.yale.edu/event/2026-05/seminar-misha-ahrens",
+    "summary": "WTI Special Seminar: Misha Ahrens — Whole-brain and whole-body computation for behavior and physiology",
+    "start": "2026-05-21T10:00:00-04:00",
+    "end": "2026-05-21T11:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Special Seminar: Misha Ahrens\nWhole-brain and whole-body computation for behavior and physiology\n\n​How do large populations of neurons collaborate to implement the computations underlying flexible behavior?\n\nThe Ahrens Lab uses modern microscopy methods, computational approaches, and the study of behavior, genes, and anatomy to investigate mechanisms underlying behavioral flexibility, memory, and learning. They study how both neurons and glial cells underlie these processes, which are relevant for species from fish to humans. Misha Ahrens will be hosted by Daniel Colón-Ramos.\n\nMisha Ahrens\n\nSenior Group Leader, Janelia Research Campus, HHMI\n\nAhrens’ research interests span systems neuroscience, brain-body interactions, neurotechnology, and control theory.\n\nLEARN MORE: https://www.janelia.org/lab/ahrens-lab\n\nhttps://wti.yale.edu/event/2026-05/seminar-misha-ahrens",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-06/saliency-la-memoria-cangiante": {
+    "url": "https://wti.yale.edu/event/2026-06/saliency-la-memoria-cangiante",
+    "summary": "WTI Artist-in-Residence: Serena Scapagnini — Saliency, La Memoria Cangiante",
+    "start": "2026-06-04T16:30:00-04:00",
+    "end": "2026-06-04T17:30:00-04:00",
+    "location": "100 College Street, Floor 11 Lounge, New Haven, CT 06510",
+    "description": "WTI Artist-in-Residence: Serena Scapagnini\nSaliency, La Memoria Cangiante\n\nThe Wu Tsai Institute commemorates the conclusion of the 2025-26 Artist-in-Residence Serena Scapagnini with the presentation of her original, site-specific work, Saliency, La Memoria Cangiante. The work will be presented by the artist in conversation with researchers at the Institute who influenced her artistic process for the installation at 100 College.\n\nThe piece is realized in mixed media on paper with a backlit installation and imagines memory as a field where perception, identity, and matter intertwine. It approaches memory through delicate drawing as a form of saliency—the perceptual mechanism through which certain elements emerge while others recede. Custom framing and illumination provided by ARTfx in Bloomfield, Connecticut.\n\n​Scapagnini is hosted by Wu Tsai Faculty Member Mike Higley. This event is open to the Yale community. Please send questions to wti@yale.edu.\n\nThe Wu Tsai Institute hosts Serena Scapagnini as the 2025-26 WTI Artist-in-Residence. During the residency, Serena collaborated with scientists, students, and staff to blend artistic and scientific perspectives on the intricacies of memory—in the human brain, in biological systems, and in machines. The artist reflected on the essence of memory in the layered nature of reality through this multidisciplinary and multidimensional exploration of vision, perception, memory, and the human condition.\n\nAbout the artist\n\nSerena Scapagnini was born in Rome and graduated from La Sapienza University, Rome with a dissertation in Art Theory, Semiotics and History of Religion (2006). She received her Masters degree in Middle Age Art History, Iconography and Iconology at the University of Siena (2020). Her art education began in Paris (Universitée de Vincennes, Paris VIII, 2005) and continued in New York, where she completed a Master Program in Painting and Mixed Media at the School of Visual Arts (2007).\n\nScapagnini combines physical and spiritual elements, driven by wonder for the natural rhythm of perception and memory. Her works layer paintings and drawings on paper, combined with multidimensional video and light installations to explore the intricacies of memory—from the human brain to synapses to quantum computing. Integrating artistic and scientific perspectives with the experiences of the observer, Serena Scapagnini aims to reflect a multidisciplinary and multidimensional exploration of vision, perception, memory, and human condition. Her work has been shown and collected internationally in the United States, China, India, Sweden, Hungary, Spain and Italy.\n\nScapagnini’s recent research focuses on a project dedicated to mind and memory, developed since 2012 in collaboration with Mike Higley, Faculty Member in the Wu Tsai Institute and in the Department of Neuroscience, Yale University. In 2021, she became a Young Fellow of the World Academy of Arts and Science. She has been the Artist-in-Residence at the Yale Quantum Institute (2024-25).\n\nhttps://wti.yale.edu/event/2026-06/saliency-la-memoria-cangiante",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/conference-2026": {
+    "url": "https://wti.yale.edu/event/conference-2026",
+    "summary": "WTI Conference — Energizing Cognition",
+    "start": "2026-06-10T10:00:00-04:00",
+    "end": "2026-06-10T17:00:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Conference\nEnergizing Cognition\n\nThe Wu Tsai Institute invites you to its annual conference on Wednesday, June 10, 2026, at 100 College Street.\n\nChaired by Daniel Colón-Ramos, Director of the Center for Neurodevelopment and Plasticity, the full-day event explores how energy shapes neural function, cognition, and intelligent systems, and examines what energy means at different scales—from molecules to minds to machines. Participants will help identify shared principles, tensions, and open questions across fields that can guide future exploration in the Institute’s next Grand Challenges in Cognition.\n\nRefreshments and lunch will be provided to those who register. All Yale community members are welcome. View the working agenda below, and please send questions to wti@yale.edu.\n\nWorking Agenda\n\nPlease note, details are subject to change.\n\n9:15 am | Check-in\n\nAttendees can pick up their badges, and refreshments will be available in the lounge area.\n\n10:00 am | Welcome\n\nDaniel Colón-Ramos, WTI Associate Director and Director of the Center for Neurodevelopment and Plasticity, will welcome guests and give opening remarks.\n\n10:10 am | Energy as a Constraint on Cognition\n\nSession one:\n\n“Energy constraints from organelle to organism,” by Martin Picard (Columbia University Irving Medical Center)\n\nPrimer: Douglas Rothman (Radiology and Biomedical Imaging)\n\n11:15 am | Dynamic Compartmentalization of Energy Metabolism: Where and When Matters\n\nSession two:\n\n“The astrocyte-neuron metabolic unit: more than fuel for thought,” by Juan Bolaños (University of Salamanca, Spain)\n\nFlash talks: Matthew Merrins (Cellular and Molecular Physiology), Aaron Wolfe (Neuroscience)\n\n12:30 pm | Lunch\n\nLunch will be provided for registered attendees.\n\n1:10 pm | Cellular Energy Constraints: From Subcellular Organization to Neural Computation\n\nSession three:\n\n“Molecular and structural adaptations of brain energy supply,” by Vidhya Rangaraju (Max Planck Florida Institute for Neuroscience)\n\n1:50 pm | Energy as an Instructive Signal in Development and Disease\n\nSession four:\n\nFlash talks: Tamas Horvath (Comparative Medicine and Neuroscience), Hilary Blumberg (Psychiatry, Child Study Center, and Biomedical Imaging), Elizabeth Jonas (Endocrinology and Neuroscience), Marc Hammarlund (Genetics and Neuroscience), Damon Clark (Molecular Cellular and Developmental Biology and Neuroscience)\n\n3:50 pm | Energy as Shaping Principle\n\nSession five:\n\nBenjamin Machta (Physics), Fahmeed Hyder (Radiology and Biomedical Imaging)\n\n5:00 pm | Reception\n\nRefreshments will be available in the lounge area.\n\nhttps://wti.yale.edu/event/conference-2026",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-07/undergraduate-poster-symposium": {
+    "url": "https://wti.yale.edu/event/2026-07/undergraduate-poster-symposium",
+    "summary": "Undergraduate Poster Symposium",
+    "start": "2026-07-23T09:00:00-04:00",
+    "end": "2026-07-23T11:00:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "In collaboration with the Physical and Engineering Biology (PEB) Summer Undergraduate Research Program, the Wu Tsai Institute presents the 2026 Undergraduate Summer Poster Symposium.\n\nOn July 23 at 100 College Street, the 2026 Wu Tsai Undergraduate Fellows, PEB undergrad researchers, and other summer students training with Wu Tsai Faculty Members will present posters from their summer research at Yale.\n\nThis event is open to the Yale Community. Please contact wti@yale.edu with questions.\n\nWu Tsai Undergraduate Fellow Projects\n\nAmira Ibrahim (Favuzzi Lab)\n\nDevelopmental differences in cortical neuronal activation following peripheral inflammation\n\nPeripheral inflammation has been linked to increased long-term risk of psychiatric and neurological disorders, particularly when immune activation occurs during childhood. However, the mechanisms through which peripheral immune signals alter cortical function remain unclear. This project examines how peripheral inflammation engages specific neuronal populations in the cerebral cortex and how developmental timing shapes that response. Using mouse models of gut and allergic lung inflammation, immune challenges will be induced in adult and early postnatal animals. Brain tissue will be processed using c-Fos immunohistochemistry combined with markers for defined cortical neuron subtypes. Confocal imaging and quantitative analysis will be used to map inflammation-responsive neurons across cortical regions. By comparing activation patterns between adult and early postnatal exposure, this project will determine whether early-life immune challenges recruit distinct or more extensive neuronal populations. These findings will provide a cellular framework for understanding how immune activation alters cortical circuits in a developmentally dependent manner and may clarify why early-life inflammation is associated with lasting changes in brain function.\n\nAndre Botero (Nandy Lab)\n\nLaminar mechanisms of attention in the primate visual cortex\n\nInternal states continuously fluctuate and strongly modulate perception and attention to the surrounding environment, making them a major source of variability in neural and behavioral responses. In humans, facial expressions have been studied extensively and provide a rich, noninvasive window into these internal states. However, despite the growing use of marmosets (Callithrix jacchus) as a model for systems and translational neuroscience, very little is known about their facial expressions. We hypothesize that marmosets exhibit measurable facial micro-expressions whose dynamics reflect the visual content of natural scenes. To test this hypothesis, we developed an automated facial tracking pipeline using DeepLabCut to quantify subtle facial movements while marmosets freely viewed Teletubbies video stimuli. Animals were presented with three viewing conditions: the original movie, a frame-shuffled version of the same movie, and a spontaneous viewing control condition. We validated […]\n\nhttps://wti.yale.edu/event/2026-07/undergraduate-poster-symposium",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-09/tor-wagner": {
+    "url": "https://wti.yale.edu/event/2026-09/tor-wagner",
+    "summary": "Current Works in Human Neuroscience: Tor D. Wager — The neural construction and regulation of feelings",
+    "start": "2026-09-14T16:00:00-04:00",
+    "end": "2026-09-14T17:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Current Works in Human Neuroscience: Tor D. Wager\nThe neural construction and regulation of feelings\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2027. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2026-09/tor-wagner",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-09/inspiring-speaker-tom-griffiths": {
+    "url": "https://wti.yale.edu/event/2026-09/inspiring-speaker-tom-griffiths",
+    "summary": "Tom Griffiths | WTI Inspiring Speaker Series — Mapping the jagged edges of AI with the tools of cognitive science",
+    "start": "2026-09-24T10:00:00-04:00",
+    "end": "2026-09-24T11:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Tom Griffiths | WTI Inspiring Speaker Series\nMapping the jagged edges of AI with the tools of cognitive science\n\nCurrent artificial intelligence systems demonstrate a surprising amount of heterogeneity in their abilities, displaying superhuman competence in some tasks but puzzling limitations in others. In this talk, Griffiths will argue that the tools we need for understanding this heterogeneity can be found in cognitive science, where researchers have spent decades developing theoretical and empirical methods for making sense of the capabilities of intelligent systems. Griffiths will highlight ways in which empirical methods from cognitive science—tools for studying similarity, categorization, and reasoning—can shed light on the capabilities of AI systems.\n\nTom Griffiths\n\nHenry R. Luce Professor of Information Technology, Consciousness, and Culture, Princeton University\n\nGriffiths is a cognitive scientist using ideas from computer science to understand human cognition and ideas from psychology to understand AI.\n\nLEARN MORE: https://cocosci.princeton.edu/tom/tom.php\n\nhttps://wti.yale.edu/event/2026-09/inspiring-speaker-tom-griffiths",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-10/current-works-monica-castelhano": {
+    "url": "https://wti.yale.edu/event/2026-10/current-works-monica-castelhano",
+    "summary": "Current Works in Human Neuroscience: Monica S. Castelhano — Adaptive attention: How uncertainty governs the use of prior knowledge",
+    "start": "2026-10-12T16:00:00-04:00",
+    "end": "2026-10-12T17:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Current Works in Human Neuroscience: Monica S. Castelhano\nAdaptive attention: How uncertainty governs the use of prior knowledge\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2027. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2026-10/current-works-monica-castelhano",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-11/inspiring-speaker-karen-adolph": {
+    "url": "https://wti.yale.edu/event/2026-11/inspiring-speaker-karen-adolph",
+    "summary": "WTI Inspiring Speaker: Karen E. Adolph",
+    "start": "2026-11-05T10:00:00-05:00",
+    "end": "2026-11-05T11:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Save the date. More details are coming soon.\n\nKaren E. Adolph\n\nJulius Silver Professor of Psychology and Neural Science, New York University\n\nAdolph is a developmental psychologist who uses observable motor behaviors and a variety of technologies to study learning and development.\n\nLEARN MORE: https://www.nyuactionlab.com/\n\nhttps://wti.yale.edu/event/2026-11/inspiring-speaker-karen-adolph",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2026-12/inspiring-speaker-elizabeth-buffalo": {
+    "url": "https://wti.yale.edu/event/2026-12/inspiring-speaker-elizabeth-buffalo",
+    "summary": "WTI Inspiring Speaker: Elizabeth Buffalo",
+    "start": "2026-12-10T10:00:00-05:00",
+    "end": "2026-12-10T11:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Save the date. More details are coming soon.\n\nElizabeth Buffalo\n\nWayne E. Crill Endowed Professor and Chair, Neurobiology and Biophysics, University of Washington School of Medicine\n\nBuffalo is a systems neuroscientist focused on understanding the neural mechanisms that support learning and memory.\n\nLEARN MORE: https://buffalomemorylab.com/\n\nhttps://wti.yale.edu/event/2026-12/inspiring-speaker-elizabeth-buffalo",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2027-02/inspiring-speaker-mackenzie-mathis": {
+    "url": "https://wti.yale.edu/event/2027-02/inspiring-speaker-mackenzie-mathis",
+    "summary": "WTI Inspiring Speaker: Mackenzie Weygandt Mathis",
+    "start": "2027-02-11T10:00:00-05:00",
+    "end": "2027-02-11T11:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Save the date. More details are coming soon.\n\nMackenzie Weygandt Mathis\n\nAssociate Professor in Life Sciences and Computer Science, Swiss Federal Institute of Technology, Lausanne (EPFL)\n\nMathis works on mechanisms underlying adaptive behavior in intelligent systems using experimental approaches, machine learning, and computer vision to understand the neural basis of adaptive motor control.\n\nLEARN MORE: https://www.mackenziemathislab.org/\n\nhttps://wti.yale.edu/event/2027-02/inspiring-speaker-mackenzie-mathis",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2027-03/inspiring-speaker-larry-abbott": {
+    "url": "https://wti.yale.edu/event/2027-03/inspiring-speaker-larry-abbott",
+    "summary": "WTI Inspiring Speaker: Larry Abbott",
+    "start": "2027-03-04T10:00:00-05:00",
+    "end": "2027-03-04T11:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Save the date. More details are coming soon.\n\nLarry Abbott\n\nProfessor of Neuroscience, Columbia University\n\nAbbott is a theoretical neuroscientist interested in models of neuronal circuit function, focusing on navigational circuits in the fly and sensory prediction in fish and mammals.\n\nLEARN MORE: https://www.columbia.edu/cu/neurotheory/Larry/\n\nhttps://wti.yale.edu/event/2027-03/inspiring-speaker-larry-abbott",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2027-04/inspiring-speaker-alexander-borst": {
+    "url": "https://wti.yale.edu/event/2027-04/inspiring-speaker-alexander-borst",
+    "summary": "WTI Inspiring Speaker: Alexander Borst",
+    "start": "2027-04-08T10:00:00-04:00",
+    "end": "2027-04-08T11:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Save the date. More details are coming soon.\n\nAlexander Borst\n\nDirector Emeritus, Max Planck Institute for Biological Intelligence\n\nBorst is a computational neuroscientist studying fly motion vision.\n\nLEARN MORE: https://www.bi.mpg.de/borst\n\nhttps://wti.yale.edu/event/2027-04/inspiring-speaker-alexander-borst",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  },
+  "/event/2027-05/inspiring-speaker-blaise-arcas": {
+    "url": "https://wti.yale.edu/event/2027-05/inspiring-speaker-blaise-arcas",
+    "summary": "WTI Inspiring Speaker: Blaise Agüera y Arcas",
+    "start": "2027-05-13T10:00:00-04:00",
+    "end": "2027-05-13T11:15:00-04:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Save the date. More details are coming soon.\n\nBlaise Agüera y Arcas\n\nVice President and Fellow, CTO of Technology and Society, Google\n\nArcas is an AI researcher working on evolution, social intelligence, and energy-efficient substrates for neural computation.\n\nLEARN MORE: http://blaiseaguera.com\n\nhttps://wti.yale.edu/event/2027-05/inspiring-speaker-blaise-arcas",
+    "cancelled": false,
+    "changed": "2026-09-28T16:22:04+00:00"
+  }
+}
