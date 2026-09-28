@@ -1,0 +1,77 @@
+name: Update calendars
+
+on:
+  schedule:
+    - cron: "23 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write # commit data/
+  issues: write # report changes in the Psychology calendars
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-calendars
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - id: pages
+        uses: actions/configure-pages@v6
+
+      # Errors don't stop the run: the last good data is still published,
+      # and the final step turns the run red so GitHub sends an email.
+      - id: build
+        name: Build feeds
+        continue-on-error: true
+        env:
+          PAGES_URL: ${{ steps.pages.outputs.base_url }}
+        run: python3 scripts/build.py
+
+      - name: Report a change in the Psychology calendars
+        if: hashFiles('watchdog.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Psychology calendars changed on psychology.yale.edu/events" --body-file watchdog.md
+
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            # GitHub disables scheduled workflows of public repos after 60 days
+            # without activity, so commit a heartbeat once a month.
+            if [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $(( 30 * 86400 )) ]; then
+              date -u +%Y-%m-%dT%H:%M:%SZ > data/heartbeat.txt
+              git add data/heartbeat.txt
+              git commit -m "Heartbeat: keep the schedule alive"
+            fi
+          else
+            git commit -m "Update event data"
+          fi
+          git push || { git pull --rebase && git push; }
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: public
+
+      - id: deploy
+        uses: actions/deploy-pages@v5
+
+      - name: Fail if the build reported errors
+        if: steps.build.outcome == 'failure'
+        run: |
+          echo "::error::scripts/build.py reported errors (see the 'Build feeds' step). The last good data was kept online."
+          exit 1
