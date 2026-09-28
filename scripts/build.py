@@ -316,7 +316,7 @@ def ics_time(value):
     return ";VALUE=DATE:" + value.replace("-", "")
 
 
-def write_wti_ics(store):
+def write_wti_ics(store, filename, description, skip=()):
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -324,13 +324,14 @@ def write_wti_ics(store):
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         "X-WR-CALNAME:Wu Tsai Institute",
-        "X-WR-CALDESC:" + ics_text("Talks and events of the Wu Tsai Institute at Yale, from "
-                                   "wti.yale.edu/events. Unofficial feed, refreshed every 6 hours."),
+        "X-WR-CALDESC:" + ics_text(description),
         "X-WR-TIMEZONE:America/New_York",
         "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
         "X-PUBLISHED-TTL:PT6H",
     ]
     for path, event in store.items():
+        if path in skip:
+            continue
         stamp = dt.datetime.fromisoformat(event["changed"]).astimezone(UTC).strftime("%Y%m%dT%H%M%SZ")
         summary = event["summary"]
         if event["cancelled"] and "cancel" not in summary.lower():
@@ -353,7 +354,7 @@ def write_wti_ics(store):
             "END:VEVENT",
         ]
     lines.append("END:VCALENDAR")
-    (PUBLIC / "wti.ics").write_bytes("".join(fold(line) + "\r\n" for line in lines).encode("utf-8"))
+    (PUBLIC / filename).write_bytes("".join(fold(line) + "\r\n" for line in lines).encode("utf-8"))
 
 
 # --- Psychology ----------------------------------------------------------------
@@ -383,11 +384,39 @@ def google_ics_url(calendar_id):
     return "https://calendar.google.com/calendar/ical/%s/public/basic.ics" % urllib.parse.quote(calendar_id)
 
 
-def describe_google_calendar(calendar_id, today):
+DTSTART = re.compile(r"(?m)^DTSTART(;[^:\r\n]*)?:(\d{8}T\d{4})\d{0,2}(Z?)")
+
+
+def timed_events(blocks):
+    """Map UTC start ("YYYYMMDDTHHMM") -> summaries, for the timed VEVENT blocks of a feed."""
+    events = {}
+    for block in blocks:
+        start = DTSTART.search(block)
+        if not start:
+            continue  # all-day event
+        params, stamp, utc = start.groups()
+        moment = dt.datetime.strptime(stamp, "%Y%m%dT%H%M")
+        if utc:
+            moment = moment.replace(tzinfo=UTC)
+        else:
+            tzid = re.search(r"TZID=([^;:]+)", params or "")
+            try:
+                zone = ZoneInfo(tzid.group(1)) if tzid else TZ
+            except Exception:
+                zone = TZ
+            moment = moment.replace(tzinfo=zone).astimezone(UTC)
+        summary = re.search(r"(?m)^SUMMARY[^:\r\n]*:(.*?)\r?$", block)
+        events.setdefault(moment.strftime("%Y%m%dT%H%M"), []).append(summary.group(1) if summary else "")
+    return events
+
+
+def read_google_calendar(calendar_id, today):
+    """A public Google Calendar's name, whether it is still used, and its timed events."""
     ics = re.sub(r"\r?\n[ \t]", "", fetch(google_ics_url(calendar_id)))
     name = re.search(r"(?m)^X-WR-CALNAME:(.*?)\r?$", ics)
     # Only events count: VTIMEZONE blocks carry never-ending yearly rules too.
-    events = "\n".join(re.findall(r"(?s)BEGIN:VEVENT.*?END:VEVENT", ics))
+    blocks = re.findall(r"(?s)BEGIN:VEVENT.*?END:VEVENT", ics)
+    events = "\n".join(blocks)
     starts = re.findall(r"(?m)^DTSTART[^:\r\n]*:(\d{8})", events)
     rules = re.findall(r"(?m)^RRULE:(.*?)\r?$", events)
     cutoff = (today - dt.timedelta(days=365)).strftime("%Y%m%d")
@@ -397,7 +426,27 @@ def describe_google_calendar(calendar_id, today):
         return until.group(1) >= cutoff if until else "COUNT=" not in rule
 
     active = any(start >= cutoff for start in starts) or any(rule_reaches_cutoff(r) for r in rules)
-    return {"id": calendar_id, "name": name.group(1).strip() if name else calendar_id, "active": active}
+    record = {"id": calendar_id, "name": name.group(1).strip() if name else calendar_id, "active": active}
+    return record, timed_events(blocks)
+
+
+# Words that say nothing about who is speaking, so they can't tell two talks apart.
+GENERIC_WORDS = {"current", "works", "human", "neuroscience", "talk", "talks", "seminar", "speaker",
+                 "inspiring", "series", "yale", "university", "institute", "department", "psychology",
+                 "with", "from", "about", "the", "and", "for", "this", "that"}
+
+
+def name_words(text):
+    return {w for w in re.findall(r"[a-zà-ÿ]{4,}", text.lower()) if w not in GENERIC_WORDS}
+
+
+def listed_by_psychology(event, psych_talks):
+    """True when a Psychology calendar has the same talk: same start time, a shared name."""
+    if "T" not in event["start"]:
+        return False
+    key = dt.datetime.fromisoformat(event["start"]).astimezone(UTC).strftime("%Y%m%dT%H%M")
+    words = name_words(event["summary"])
+    return any(words & name_words(summary) for summary in psych_talks.get(key, []))
 
 
 def update_psych(today):
@@ -406,13 +455,17 @@ def update_psych(today):
     ids = google_calendar_ids(fetch(PSYCH_EVENTS))
     if not ids:
         raise RuntimeError("no Google Calendar embedded on %s any more; did the page change?" % PSYCH_EVENTS)
-    calendars = []
+    calendars, talks = [], {}
     for calendar_id in ids:
         try:
-            calendars.append(describe_google_calendar(calendar_id, today))
+            record, events = read_google_calendar(calendar_id, today)
         except Exception as exc:
             log("warning", "cannot read Google Calendar %s: %s" % (calendar_id, exc))
             calendars.append(previous.get(calendar_id) or {"id": calendar_id, "name": calendar_id, "active": True})
+            continue
+        calendars.append(record)
+        for start, summaries in events.items():
+            talks.setdefault(start, []).extend(summaries)
 
     current = {c["id"]: c for c in calendars}
     changes = []
@@ -430,7 +483,7 @@ def update_psych(today):
             % (PSYCH_EVENTS, "\n".join(changes), " — links on " + PAGES_URL + "/" if PAGES_URL else ""),
             encoding="utf-8")
     save_json(baseline_file, calendars)
-    return calendars
+    return calendars, talks
 
 
 # --- index page ----------------------------------------------------------------
@@ -454,12 +507,16 @@ def calendar_card(name, note, webcal, google, ics, muted=False):
         % (" muted" if muted else "", esc(name), esc(note), esc(webcal), esc(google), esc(ics)))
 
 
-def write_index(wti, psych, now):
+def wti_card(filename, note):
+    https = (PAGES_URL + "/" + filename) if PAGES_URL else filename
+    webcal = re.sub(r"^https?://", "webcal://", https)
+    google = "https://calendar.google.com/calendar/r?cid=" + urllib.parse.quote(webcal, safe="")
+    return calendar_card("Wu Tsai Institute", note, webcal, google, https)
+
+
+def write_index(wti, psych, now, duplicates):
     esc = html.escape
-    wti_https = (PAGES_URL + "/wti.ics") if PAGES_URL else "wti.ics"
-    wti_webcal = re.sub(r"^https?://", "webcal://", wti_https)
-    wti_google = "https://calendar.google.com/calendar/r?cid=" + urllib.parse.quote(wti_webcal, safe="")
-    upcoming = [e for e in wti.values() if event_end(e) > now][:8]
+    upcoming = [e for path, e in wti.items() if path not in duplicates and event_end(e) > now][:8]
     talks = "".join(
         '<li><div class="when">%s</div><a href="%s">%s</a></li>' % (esc(when(e)), esc(e["url"]), esc(e["summary"]))
         for e in upcoming) or "<li>No upcoming event listed yet.</li>"
@@ -519,6 +576,7 @@ On a Mac or iPhone, tap <em>Apple Calendar</em> and confirm; choose the iCloud l
 
 <h2>Wu Tsai Institute</h2>
 %(wti_card)s
+<details><summary>Not subscribed to the Psychology calendars? Take the complete feed</summary>%(wti_all_card)s</details>
 <ul class="talks">%(talks)s</ul>
 
 <h2>Department of Psychology</h2>
@@ -540,8 +598,9 @@ fetch("status.json", {cache: "no-store"}).then(r => r.json()).then(s => {
 </body>
 </html>
 """ % {
-        "wti_card": calendar_card("Wu Tsai Institute", "Inspiring Speakers, Current Works, symposia and more",
-                                  wti_webcal, wti_google, wti_https),
+        "wti_card": wti_card("wti.ics", "Inspiring Speakers, symposia and more; talks already on the "
+                                        "Psychology calendars (such as Current Works) are left out"),
+        "wti_all_card": wti_card("wti-all.ics", "Every event, Current Works in Human Neuroscience included"),
         "talks": talks,
         "active": active,
         "inactive": inactive,
@@ -564,26 +623,37 @@ def main():
         errors.append("Wu Tsai Institute: %s" % exc)
         wti = load_json(DATA / "wti-events.json", {})
     try:
-        psych = update_psych(now.astimezone(TZ).date())
+        psych, psych_talks = update_psych(now.astimezone(TZ).date())
     except Exception as exc:
         errors.append("Psychology: %s" % exc)
-        psych = load_json(DATA / "psych-calendars.json", [])
+        psych, psych_talks = load_json(DATA / "psych-calendars.json", []), {}
+
+    # wti.ics leaves out talks a Psychology calendar already lists (the Current
+    # Works in Human Neuroscience, mostly), so they don't show up twice for
+    # someone subscribed to both; wti-all.ics keeps everything.
+    duplicates = {path for path, event in wti.items() if listed_by_psychology(event, psych_talks)}
 
     # Publish whatever is known, even after an error: the last good data stays online.
-    write_wti_ics(wti)
-    write_index(wti, psych, now)
+    write_wti_ics(wti, "wti.ics", skip=duplicates, description=(
+        "Talks and events of the Wu Tsai Institute at Yale, from wti.yale.edu/events, leaving out talks "
+        "already on the Psychology department calendars. Unofficial feed, refreshed every 6 hours."))
+    write_wti_ics(wti, "wti-all.ics", description=(
+        "All talks and events of the Wu Tsai Institute at Yale, from wti.yale.edu/events. "
+        "Unofficial feed, refreshed every 6 hours."))
+    write_index(wti, psych, now, duplicates)
+    upcoming = sum(1 for e in wti.values() if event_end(e) > now)
     save_json(PUBLIC / "status.json", {
         "checked": now.isoformat(),
         "errors": errors,
         "wti_events": len(wti),
-        "wti_upcoming": sum(1 for e in wti.values() if event_end(e) > now),
+        "wti_upcoming": upcoming,
+        "wti_also_on_psychology": len(duplicates),
         "psych_calendars": len(psych),
     })
     for error in errors:
         log("error", error)
-    print("WTI: %d events (%d upcoming); Psychology: %d calendars (%d active)" % (
-        len(wti), sum(1 for e in wti.values() if event_end(e) > now),
-        len(psych), sum(1 for c in psych if c["active"])))
+    print("WTI: %d events (%d upcoming, %d also on Psychology calendars); Psychology: %d calendars (%d active)" % (
+        len(wti), upcoming, len(duplicates), len(psych), sum(1 for c in psych if c["active"])))
     return 1 if errors else 0
 
 

@@ -6,7 +6,7 @@ Calendar feeds for talks at Yale's **Wu Tsai Institute** and **Department of Psy
 
 | Calendar | Where it comes from |
 | --- | --- |
-| Wu Tsai Institute — [`wti.ics`](https://himalaya-gir.github.io/yale-talks-calendars/wti.ics) | Built here every 6 hours from [wti.yale.edu/events](https://wti.yale.edu/events), since the Institute publishes no calendar feed |
+| Wu Tsai Institute — [`wti.ics`](https://himalaya-gir.github.io/yale-talks-calendars/wti.ics) | Built here every 6 hours from [wti.yale.edu/events](https://wti.yale.edu/events), since the Institute publishes no calendar feed. Leaves out talks a Psychology calendar already lists (the *Current Works in Human Neuroscience*), so nothing shows up twice; [`wti-all.ics`](https://himalaya-gir.github.io/yale-talks-calendars/wti-all.ics) has everything |
 | Psychology — Department, Cognitive, Neuroscience, Social/Personality, Developmental, Clinical | The department's own public Google Calendars, as embedded on [psychology.yale.edu/events](https://psychology.yale.edu/events) |
 
 Unofficial; not affiliated with Yale.
@@ -15,7 +15,7 @@ Unofficial; not affiliated with Yale.
 
 [`scripts/build.py`](scripts/build.py) (Python standard library only) runs in GitHub Actions every 6 hours ([`update.yml`](.github/workflows/update.yml)):
 
-- **Wu Tsai Institute**: reads the upcoming and recent past events, writes `public/wti.ics`, and keeps every event it has seen in [`data/wti-events.json`](data/wti-events.json). Past talks stay in the calendar; a future talk that disappears from the site is treated as cancelled and removed.
+- **Wu Tsai Institute**: reads the upcoming and recent past events, writes `public/wti-all.ics`, and keeps every event it has seen in [`data/wti-events.json`](data/wti-events.json). Past talks stay in the calendar; a future talk that disappears from the site is treated as cancelled and removed. `public/wti.ics` is the same minus the talks that a Psychology calendar lists at the same time under the same speaker name.
 - **Psychology**: records which Google Calendars the events page embeds in [`data/psych-calendars.json`](data/psych-calendars.json). If one is added, removed, or goes quiet for a year, the workflow opens an issue so you can subscribe or unsubscribe.
 - Builds `public/index.html` (the subscribe page) and deploys `public/` to GitHub Pages.
 
