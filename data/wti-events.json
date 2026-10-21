@@ -839,6 +839,16 @@
     "cancelled": false,
     "changed": "2026-10-11T22:03:18+00:00"
   },
+  "/event/2026-11/seminar-eric-schreiter": {
+    "url": "https://wti.yale.edu/event/2026-11/seminar-eric-schreiter",
+    "summary": "WTI Special Seminar: Eric Schreiter — New approaches for fluorescent biosensor engineering",
+    "start": "2026-11-10T13:00:00-05:00",
+    "end": "2026-11-10T14:00:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "WTI Special Seminar: Eric Schreiter\nNew approaches for fluorescent biosensor engineering\n\nHow does the brain turn intricate cellular connections into complex, flexible behaviors?\n\nThe Schreiter Lab is answering this question by using advanced protein engineering and directed evolution to invent powerful new molecular tools. Eric Schreiter will be hosted by Daniel Colón-Ramos.\n\nEric Schreiter\n\nSenior Group Leader, Janelia Research Campus, HHMI\n\nSchreiter is a structural biologist and protein engineer interested in development of molecular tools for imaging physiology in model organisms.\n\nLearn More: https://www.janelia.org/lab/schreiter-lab\n\nhttps://wti.yale.edu/event/2026-11/seminar-eric-schreiter",
+    "cancelled": false,
+    "changed": "2026-10-21T21:47:06+00:00"
+  },
   "/event/2026-12/inspiring-speaker-elizabeth-buffalo": {
     "url": "https://wti.yale.edu/event/2026-12/inspiring-speaker-elizabeth-buffalo",
     "summary": "WTI Inspiring Speaker: Elizabeth Buffalo",
