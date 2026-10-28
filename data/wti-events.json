@@ -825,9 +825,9 @@
     "start": "2026-11-02T16:00:00-05:00",
     "end": "2026-11-02T17:15:00-05:00",
     "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
-    "description": "Current Works in Human Neuroscience: Janice Chen\nStudying memory for natural events across multiple timescales\n\nWhat will you remember about this moment? Some details of our lives are destined to be forgotten, while others are retained in memory for seconds, minutes, hours, or even years. Information from these different eras of our memories continually influences our thoughts and actions in the present. Furthermore, events in the experiential stream are deeply connected to each other by factors such as shared features and causal influence; this network of connections guides how we engage encoding and retrieval processes during ongoing experience, as well as shapes the organization of episodic memories. Chen will discuss behavioral and neuroscientific studies examining how the brain implements multiple timescales of memory, and the prominent role that causal connections play in memory for real-world events.\n\nJanice Chen\n\nAssociate Professor, Department of Psychological & Brain Sciences, Johns Hopkins University\n\nLEARN MORE: https://jchenlab.johnshopkins.edu/\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2027. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2026-11/current-works-janice-chen",
+    "description": "Current Works in Human Neuroscience: Janice Chen\nStudying memory for natural events across multiple timescales\n\nWhat will you remember about this moment? Some details of our lives are destined to be forgotten, while others are retained in memory for seconds, minutes, hours, or even years. Information from these different eras of our memories continually influences our thoughts and actions in the present. Furthermore, events in the experiential stream are deeply connected to each other by factors such as shared features and causal influence; this network of connections guides how we engage encoding and retrieval processes during ongoing experience, as well as shapes the organization of episodic memories. Chen will discuss behavioral and neuroscientific studies examining how the brain implements multiple timescales of memory, and the prominent role that causal connections play in memory for real-world events.\n\nJanice Chen\n\nAssociate Professor, Department of Psychological and Brain Sciences, Johns Hopkins University\n\nLEARN MORE: https://jchenlab.johnshopkins.edu/\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2027. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2026-11/current-works-janice-chen",
     "cancelled": false,
-    "changed": "2026-10-13T00:46:49+00:00"
+    "changed": "2026-10-28T22:39:34+00:00"
   },
   "/event/2026-11/inspiring-speaker-karen-adolph": {
     "url": "https://wti.yale.edu/event/2026-11/inspiring-speaker-karen-adolph",
@@ -849,15 +849,25 @@
     "cancelled": false,
     "changed": "2026-10-21T21:47:06+00:00"
   },
+  "/event/2026-12/bmm-open-house": {
+    "url": "https://wti.yale.edu/event/2026-12/bmm-open-house",
+    "summary": "Brains, Minds, and Machines Open House",
+    "start": "2026-12-08T16:00:00-05:00",
+    "end": "2026-12-08T17:30:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Join the Wu Tsai Institute for an Open House to learn about the Graduate Certificate in Brains, Minds, and Machines, a new opportunity for PhD students to engage in cross-disciplinary training that bridges biological, psychological, and computational approaches, to develop an integrated foundation for studying cognition.\n\nYale PhD students in their first year, from any department, can apply for the certificate, which would begin in their second year and includes interdisciplinary coursework, experiential learning, and professional development.\n\nEvery certificate student works with a Wu Tsai Faculty Member, so the Open House is a great chance to discover WTI labs while you're still choosing rotations and advisors. Browse research posters from labs across the Institute, talk with faculty and lab members about their work, and hear from current certificate students about their experience. Because the certificate is built around training across disciplines, it's also a chance to spark connections and ideas for cross-lab collaborations you might propose as you apply. You can also meet with certificate leadership to learn what the program involves, including eligibility, requirements, fellowship support, and the 2027 application timeline.\n\nView the agenda below, and contact wti@yale.edu with questions.\n\nYale PhD students in their first year, from any department, can apply for the Graduate Certificate in Brains, Minds, and Machines, which would begin in their second year and includes interdisciplinary coursework, experiential learning, and professional development.\n\nOpen House Agenda\n\n4:00 pm | Doors open and check-in\n\nCheck in, grab a snack and a drink, and pick up a map of the lab showcase.\n\n4:15 pm | Welcome\n\nWu Tsai Faculty Member and director of the Graduate Certificate in Brains, Minds, and Machines, Sam McDougle, will give opening remarks.\n\n4:20 pm | Lab Showcase\n\nBrowse research posters from Wu Tsai Faculty Members and their labs, and talk with presenters about their projects.\n\nStop by the certificate information station to learn about eligibility, requirements, fellowship support, and the 2027 application timeline.\n\nCurrent certificate students will be stationed throughout the space to share their experiences and answer your questions.\n\n5:30 pm | End\n\nThank you for attending!\n\nhttps://wti.yale.edu/event/2026-12/bmm-open-house",
+    "cancelled": false,
+    "changed": "2026-10-28T22:39:34+00:00"
+  },
   "/event/2026-12/inspiring-speaker-elizabeth-buffalo": {
     "url": "https://wti.yale.edu/event/2026-12/inspiring-speaker-elizabeth-buffalo",
-    "summary": "WTI Inspiring Speaker: Elizabeth Buffalo",
+    "summary": "WTI Inspiring Speaker: Elizabeth Buffalo — Constructed experience and the hippocampal code",
     "start": "2026-12-10T10:00:00-05:00",
     "end": "2026-12-10T11:15:00-05:00",
     "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
-    "description": "Save the date. More details are coming soon.\n\nElizabeth Buffalo\n\nWayne E. Crill Endowed Professor and Chair, Neurobiology and Biophysics, University of Washington School of Medicine\n\nBuffalo is a systems neuroscientist focused on understanding the neural mechanisms that support learning and memory.\n\nLEARN MORE: https://buffalomemorylab.com/\n\nhttps://wti.yale.edu/event/2026-12/inspiring-speaker-elizabeth-buffalo",
+    "description": "WTI Inspiring Speaker: Elizabeth Buffalo\nConstructed experience and the hippocampal code\n\nExperience is not a passive record of the world but is shaped by goals, expectations, and prior learning. In this talk, Elizabeth Buffalo will show how hippocampal activity reflects this constructed experience rather than simply mirroring sensory input or spatial position by using recordings from the macaque hippocampus during virtual navigation. Buffalo will close with new laminar recordings that open the door to understanding the circuit mechanisms underlying these codes.\n\nElizabeth Buffalo\n\nWayne E. Crill Endowed Professor and Chair, Neurobiology and Biophysics, University of Washington School of Medicine\n\nBuffalo is a systems neuroscientist focused on understanding the neural mechanisms that support learning and memory.\n\nLEARN MORE: https://buffalomemorylab.com/\n\nhttps://wti.yale.edu/event/2026-12/inspiring-speaker-elizabeth-buffalo",
     "cancelled": false,
-    "changed": "2026-09-28T16:22:04+00:00"
+    "changed": "2026-10-28T22:39:34+00:00"
   },
   "/event/2026-12/current-works-joel-voss": {
     "url": "https://wti.yale.edu/event/2026-12/current-works-joel-voss",
@@ -865,9 +875,9 @@
     "start": "2026-12-14T16:00:00-05:00",
     "end": "2026-12-14T17:15:00-05:00",
     "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
-    "description": "Current Works in Human Neuroscience: Joel Voss\nBoss hippocampus\n\nHippocampus is widely considered a lazy part of the brain, languidly waiting to receive information to bind into coherent episodic memories. Voss will describe evidence to the contrary, suggesting that it actively shapes behavior and thereby controls its own input to construct memories. He will focus on recent experiments using intracranial EEG to resolve and neuromodulation to manipulate the dynamic role of hippocampus in memory.\n\nJoel Voss\n\nProfessor of Neurology, The University of Chicago\n\nLEARN MORE: https://cnoir.bsd.uchicago.edu/\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2027. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2026-12/current-works-joel-voss",
+    "description": "Current Works in Human Neuroscience: Joel Voss\nBoss hippocampus\n\nThe hippocampus is widely considered a lazy part of the brain, languidly waiting to receive information to bind into coherent episodic memories. Voss will describe evidence to the contrary, suggesting that it actively shapes behavior and thereby controls its own input to construct memories. He will focus on recent experiments using intracranial EEG to resolve and neuromodulation to manipulate the dynamic role of hippocampus in memory.\n\nJoel Voss\n\nProfessor of Neurology, The University of Chicago\n\nLEARN MORE: https://cnoir.bsd.uchicago.edu/\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2027. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2026-12/current-works-joel-voss",
     "cancelled": false,
-    "changed": "2026-10-13T00:46:49+00:00"
+    "changed": "2026-10-28T22:39:34+00:00"
   },
   "/event/2027-02/inspiring-speaker-mackenzie-mathis": {
     "url": "https://wti.yale.edu/event/2027-02/inspiring-speaker-mackenzie-mathis",
@@ -935,9 +945,9 @@
     "start": "2027-05-03T16:00:00-04:00",
     "end": "2027-05-03T17:15:00-04:00",
     "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
-    "description": "Current Works in Human Neuroscience: Maryam Shanechi\nAI-driven neurotechnology: from neural-behavioral dynamics to brain foundation models\n\nIn this talk, Shanechi will present on AI models that characterize how large-scale neural populations underlie behavior and mental states such as mood, and that enable neurotechnologies for neurological and neuropsychiatric disorders.\n\nMaryam Shanechi\n\nSawchuk Endowed Chair and Professor Founding Director of the Center for Neurotechnology, University of Southern California\n\nLEARN MORE: https://nseip.usc.edu/\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2027. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2027-05/current-works-maryam-shanechi",
+    "description": "Current Works in Human Neuroscience: Maryam Shanechi\nAI-driven neurotechnology: from neural-behavioral dynamics to brain foundation models\n\nIn this talk, Maryam Shanechi will present on AI models that characterize how large-scale neural populations underlie behavior and mental states such as mood, and that enable neurotechnologies for neurological and neuropsychiatric disorders.\n\nMaryam Shanechi\n\nSawchuk Endowed Chair and Professor Founding Director of the Center for Neurotechnology, University of Southern California\n\nLEARN MORE: https://nseip.usc.edu/\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2027. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2027-05/current-works-maryam-shanechi",
     "cancelled": false,
-    "changed": "2026-10-13T14:18:54+00:00"
+    "changed": "2026-10-28T22:39:34+00:00"
   },
   "/event/2027-05/inspiring-speaker-blaise-arcas": {
     "url": "https://wti.yale.edu/event/2027-05/inspiring-speaker-blaise-arcas",
