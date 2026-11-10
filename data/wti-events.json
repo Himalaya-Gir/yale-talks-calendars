@@ -879,6 +879,16 @@
     "cancelled": false,
     "changed": "2026-11-09T22:27:01+00:00"
   },
+  "/event/2027-01/current-works-daniel-wolpert": {
+    "url": "https://wti.yale.edu/event/2027-01/current-works-daniel-wolpert",
+    "summary": "Current Works in Human Neuroscience: Daniel Wolpert — Computational principles underlying the learning of sensorimotor repertoires",
+    "start": "2027-01-25T16:00:00-05:00",
+    "end": "2027-01-25T17:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Current Works in Human Neuroscience: Daniel Wolpert\nComputational principles underlying the learning of sensorimotor repertoires\n\nHumans spend a lifetime learning, storing, and refining a repertoire of motor memories appropriate for the multitude of tasks we perform. However, it is unknown what principle underlies the way our continuous stream of sensorimotor experience is segmented into separate memories and how we adapt and use this growing repertoire. In this talk, Daniel Wolpert will review our work on how humans learn to make skilled movements focussing on the role of context in organizing motor memories.\n\nDaniel Wolpert\n\nProfessor of Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University\n\n--\n\nLEARN MORE: https://wolpertlab.neuroscience.columbia.edu/\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2027. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2027-01/current-works-daniel-wolpert",
+    "cancelled": false,
+    "changed": "2026-11-10T19:48:24+00:00"
+  },
   "/event/2027-02/inspiring-speaker-mackenzie-mathis": {
     "url": "https://wti.yale.edu/event/2027-02/inspiring-speaker-mackenzie-mathis",
     "summary": "WTI Inspiring Speaker: Mackenzie Weygandt Mathis",
@@ -899,6 +909,16 @@
     "cancelled": false,
     "changed": "2026-11-09T22:27:01+00:00"
   },
+  "/event/2027-03/current-works-robert-knight": {
+    "url": "https://wti.yale.edu/event/2027-03/current-works-robert-knight",
+    "summary": "Current Works in Human Neuroscience: Robert T. Knight — Insights into human cognition from intracranial recording",
+    "start": "2027-03-01T16:00:00-05:00",
+    "end": "2027-03-01T17:15:00-05:00",
+    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
+    "description": "Current Works in Human Neuroscience: Robert T. Knight\nInsights into human cognition from intracranial recording\n\nIntracranial recordings in humans will define the neurobiology of a range of behaviors including approach-avoidance, the neurobiology of singing versus singing, and the role of the hippocampus in visual attention and spatial navigation while patients with chronic hippocampal electrodes explore the naturalistic environment.\n\nRobert T. Knight\n\nDistinguished Professor of the Graduate School Departments of Neuroscience and Psychology, Helen Wills Neuroscience Institute University of California, Berkeley\n\nLEARN MORE: https://knightlab.neuro.berkeley.edu/\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2027. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2027-03/current-works-robert-knight",
+    "cancelled": false,
+    "changed": "2026-11-10T19:48:24+00:00"
+  },
   "/event/2027-03/inspiring-speaker-larry-abbott": {
     "url": "https://wti.yale.edu/event/2027-03/inspiring-speaker-larry-abbott",
     "summary": "WTI Inspiring Speaker: Larry Abbott",
@@ -908,16 +928,6 @@
     "description": "Save the date. More details are coming soon.\n\nLarry Abbott\n\nProfessor of Neuroscience, Columbia University\n\nAbbott is a theoretical neuroscientist interested in models of neuronal circuit function, focusing on navigational circuits in the fly and sensory prediction in fish and mammals.\n\nLEARN MORE: https://www.columbia.edu/cu/neurotheory/Larry/\n\nhttps://wti.yale.edu/event/2027-03/inspiring-speaker-larry-abbott",
     "cancelled": false,
     "changed": "2026-09-28T16:22:04+00:00"
-  },
-  "/event/2027-03/current-works-robert-knight": {
-    "url": "https://wti.yale.edu/event/2027-03/current-works-robert-knight",
-    "summary": "Current Works in Human Neuroscience: Robert T. Knight — Insights into human cognition from intracranial recording",
-    "start": "2027-03-22T16:00:00-04:00",
-    "end": "2027-03-22T17:15:00-04:00",
-    "location": "100 College Street, Floor 11, Workshop 1116, New Haven, CT 06510",
-    "description": "Current Works in Human Neuroscience: Robert T. Knight\nInsights into human cognition from intracranial recording\n\nIntracranial recordings in humans will define the neurobiology of a range of behaviors including approach-avoidance, the neurobiology of singing versus singing, and the role of the hippocampus in visual attention and spatial navigation while patients with chronic hippocampal electrodes explore the naturalistic environment.\n\nRobert T. Knight\n\nDistinguished Professor of the Graduate School Departments of Neuroscience and Psychology, Helen Wills Neuroscience Institute University of California, Berkeley\n\nLEARN MORE: https://knightlab.neuro.berkeley.edu/\n\nCurrent Works in Human Neuroscience is presented by WTI's Center for Neurocognition and Behavior. Talks in the current series recur monthly through May 2027. All Yale community members are welcome. Contact wti.brainworks@yale.edu with questions.\n\nhttps://wti.yale.edu/event/2027-03/current-works-robert-knight",
-    "cancelled": false,
-    "changed": "2026-10-13T00:46:49+00:00"
   },
   "/event/2027-04/inspiring-speaker-alexander-borst": {
     "url": "https://wti.yale.edu/event/2027-04/inspiring-speaker-alexander-borst",
